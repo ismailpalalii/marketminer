@@ -1,6 +1,60 @@
 {
   "signals": [
     {
+      "id": "eff1db0a0720",
+      "found_date": "2026-04-03",
+      "platform": "Reddit",
+      "subreddit": "ynab",
+      "title": "You Need A Plan (YNAP)",
+      "body": "Edit: I have made some updates!\\n\\n&#x200B;\\n\\nI had this posted\\",
+      "author": "DaShMa_",
+      "url": "https://reddit.com/r/ynab/comments/1kn61ds/you_need_a_plan_ynap/",
+      "post_date": "2025-05-15",
+      "upvotes": 297,
+      "comments": 161,
+      "category": "Finance",
+      "pain_summary": "Need a budgeting plan",
+      "ios_angle": "YNAB (You Need A Budget) mobile app with automated expense tracking",
+      "signal_strength": "strong",
+      "keywords": [
+        "budget planner",
+        "expense tracker",
+        "financial management"
+      ],
+      "competitors": [
+        {
+          "name": "Tofu: Accounting & Bookkeeping",
+          "developer": "GetPaid Inc.",
+          "rating": 4.6,
+          "reviews": 292,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/tofu-accounting-bookkeeping/id6444800065?uo=4",
+          "genre": "Business"
+        },
+        {
+          "name": "Budget Planner Expense Tracker",
+          "developer": "Asrar Amin",
+          "rating": 0,
+          "reviews": 0,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/budget-planner-expense-tracker/id6467593914?uo=4",
+          "genre": "Finance"
+        },
+        {
+          "name": "Expense & Budget App: Spendee",
+          "developer": "Cleevio s.r.o.",
+          "rating": 4.6,
+          "reviews": 6092,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/expense-budget-app-spendee/id635861140?uo=4",
+          "genre": "Finance"
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "competitive"
+    },
+    {
       "id": "ea5767ba4011",
       "found_date": "2026-04-02",
       "platform": "Reddit",
@@ -2554,6 +2608,6 @@
       "market_gap": "competitive"
     }
   ],
-  "last_run": "2026-04-03T00:39:13.578604",
-  "total_runs": 4
+  "last_run": "2026-04-03T00:40:49.283484",
+  "total_runs": 5
 }
