@@ -1,0 +1,2453 @@
+{
+  "signals": [
+    {
+      "id": "ea5767ba4011",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "SideProject",
+      "title": "Tired of to-do lists? I built an AI app that actually helps you get",
+      "body": "Nine years writing code professionally and I had never shipped",
+      "author": "sedoyjan",
+      "url": "https://reddit.com/r/SideProject/comments/1mi2hyu/tired_of_todo_lists_i_built_an_ai_app_that/",
+      "post_date": "2025-08-05",
+      "upvotes": 173,
+      "comments": 38,
+      "category": "Productivity",
+      "pain_summary": "Tired of to-do lists that don't help with getting things done",
+      "ios_angle": "AI-powered task manager with personalized focus suggestions",
+      "signal_strength": "strong",
+      "keywords": [
+        "task manager AI",
+        "focus app",
+        "productivity assistant"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "Google Tasks: Get Things Done",
+          "developer": "Google",
+          "rating": 4.8,
+          "reviews": 102100,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/google-tasks-get-things-done/id1353634006?uo=4",
+          "genre": "Productivity"
+        },
+        {
+          "name": "Be Focused Pro - Focus Timer",
+          "developer": "Denys Ievenko",
+          "rating": 4.6,
+          "reviews": 2967,
+          "price": "$12.99",
+          "url": "https://apps.apple.com/us/app/be-focused-pro-focus-timer/id953426154?uo=4",
+          "genre": "Productivity"
+        },
+        {
+          "name": "Tiimo: To-Do List & AI Planner",
+          "developer": "tiimo",
+          "rating": 4.6,
+          "reviews": 15260,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/tiimo-to-do-list-ai-planner/id1480220328?uo=4",
+          "genre": "Productivity"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "dc11e144fdfe",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "freelance",
+      "title": "I have never felt this low in my life",
+      "body": "I''d like to hear some suggestions about the invoicing software",
+      "author": "OppositeMany5978",
+      "url": "https://reddit.com/r/freelance/comments/1nmvtmc/i_have_never_felt_this_low_in_my_life/",
+      "post_date": "2025-09-21",
+      "upvotes": 169,
+      "comments": 59,
+      "category": "Finance",
+      "pain_summary": "Invoicing software suggestions are needed due to frustration with current tools",
+      "ios_angle": "Mobile invoicing app with automated payment tracking and reminders",
+      "signal_strength": "strong",
+      "keywords": [
+        "invoicing app",
+        "payment tracking",
+        "freelance accounting"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "FreshBooks Invoicing App",
+          "developer": "FreshBooks",
+          "rating": 4.7,
+          "reviews": 10967,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/freshbooks-invoicing-app/id1052884030?uo=4",
+          "genre": "Business"
+        },
+        {
+          "name": "Zoho Invoice Maker App",
+          "developer": "Zoho Corporation",
+          "rating": 4.9,
+          "reviews": 12272,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/zoho-invoice-maker-app/id413017364?uo=4",
+          "genre": "Business"
+        },
+        {
+          "name": "Invoice Maker & Estimate App",
+          "developer": "Bookipi Pty Ltd",
+          "rating": 4.9,
+          "reviews": 16505,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/invoice-maker-estimate-app/id1419627421?uo=4",
+          "genre": "Finance"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "ec7b2bbc56de",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "ynab",
+      "title": "I need to hear a success story from ynab users",
+      "body": "I have hit it so many times thinking it is the button to Approve.",
+      "author": "InfiniteOrdinary2582",
+      "url": "https://reddit.com/r/ynab/comments/1lq0y6w/i_need_to_hear_a_success_story_from_ynab_users/",
+      "post_date": "2025-07-02",
+      "upvotes": 71,
+      "comments": 65,
+      "category": "Finance",
+      "pain_summary": "Struggling to use YNAB due to button confusion",
+      "ios_angle": "YNAB tutorial with clear approval process",
+      "signal_strength": "strong",
+      "keywords": [
+        "ynab tutorial",
+        "budgeting app",
+        "personal finance software"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "YNAB",
+          "developer": "You Need A Budget LLC",
+          "rating": 4.8,
+          "reviews": 59234,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/ynab/id1010865877?uo=4",
+          "genre": "Finance"
+        },
+        {
+          "name": "Buddy: Budget Planner App",
+          "developer": "Buddy Budgeting AB",
+          "rating": 4.7,
+          "reviews": 8877,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/buddy-budget-planner-app/id936422955?uo=4",
+          "genre": "Finance"
+        },
+        {
+          "name": "Monarch: Budget & Track Money",
+          "developer": "Monarch Money, Inc.",
+          "rating": 4.9,
+          "reviews": 83835,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/monarch-budget-track-money/id1459319842?uo=4",
+          "genre": "Finance"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "8f22881dec61",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "ynab",
+      "title": "I’m way too expensive for myself.. need some tips",
+      "body": "",
+      "author": "Dry-Pace1750",
+      "url": "https://reddit.com/r/ynab/comments/1n1j7yv/im_way_too_expensive_for_myself_need_some_tips/",
+      "post_date": "2025-08-27",
+      "upvotes": 61,
+      "comments": 50,
+      "category": "Finance",
+      "pain_summary": "struggling to afford own expenses",
+      "ios_angle": "Budgeting app with expense tracking and alerts",
+      "signal_strength": "strong",
+      "keywords": [
+        "budget tracker",
+        "expense tracking app"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "Budget app - spending tracker",
+          "developer": "InnerGrow",
+          "rating": 4.7,
+          "reviews": 14025,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/budget-app-spending-tracker/id1525179720?uo=4",
+          "genre": "Finance"
+        },
+        {
+          "name": "Expense & Budget App: Spendee",
+          "developer": "Cleevio s.r.o.",
+          "rating": 4.6,
+          "reviews": 6092,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/expense-budget-app-spendee/id635861140?uo=4",
+          "genre": "Finance"
+        },
+        {
+          "name": "Budget App & Expense Tracker",
+          "developer": "Bookipi Pty Ltd",
+          "rating": 4.8,
+          "reviews": 2687,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/budget-app-expense-tracker/id1448335613?uo=4",
+          "genre": "Finance"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "658403cdb7dc",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "ynab",
+      "title": "Tried Some Alternatives - Back to YNAB I Come.",
+      "body": "YNAB no longer fits into my budget with future price increase.",
+      "author": "SafyrJL",
+      "url": "https://reddit.com/r/ynab/comments/1oqkg4r/tried_some_alternatives_back_to_ynab_i_come/",
+      "post_date": "2025-11-07",
+      "upvotes": 53,
+      "comments": 38,
+      "category": "Finance",
+      "pain_summary": "budgeting app YNAB no longer fits budget due to price increase",
+      "ios_angle": "Budgeting app with automated expense categorization and alerts",
+      "signal_strength": "strong",
+      "keywords": [
+        "budget tracker",
+        "price tracking app"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "Budget app - spending tracker",
+          "developer": "InnerGrow",
+          "rating": 4.7,
+          "reviews": 14025,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/budget-app-spending-tracker/id1525179720?uo=4",
+          "genre": "Finance"
+        },
+        {
+          "name": "Expense & Budget App: Spendee",
+          "developer": "Cleevio s.r.o.",
+          "rating": 4.6,
+          "reviews": 6092,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/expense-budget-app-spendee/id635861140?uo=4",
+          "genre": "Finance"
+        },
+        {
+          "name": "Wallet - Daily Budget & Profit",
+          "developer": "BudgetBakers s.r.o.",
+          "rating": 4.6,
+          "reviews": 5771,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/wallet-daily-budget-profit/id1032467659?uo=4",
+          "genre": "Finance"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "fe3140741245",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "SomebodyMakeThis",
+      "title": "App idea: An ADHD app that lets you brain dump all your thoughts to",
+      "body": "Most rental marketplaces only let **one side** judge the other.",
+      "author": "LeftCookie7022",
+      "url": "https://reddit.com/r/SomebodyMakeThis/comments/1ph7zem/app_idea_an_adhd_app_that_lets_you_brain_dump_all/",
+      "post_date": "2025-12-08",
+      "upvotes": 42,
+      "comments": 23,
+      "category": "Health",
+      "pain_summary": "ADHD app that lets users brain dump thoughts is needed",
+      "ios_angle": "ADHD-friendly note-taking app with tagging system",
+      "signal_strength": "strong",
+      "keywords": [
+        "ADHD planner",
+        "focus timer",
+        "task manager ADHD"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "Clarify: ADHD Organizer, Timer",
+          "developer": "Fabulous",
+          "rating": 4.3,
+          "reviews": 2632,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/clarify-adhd-organizer-timer/id1670958524?uo=4",
+          "genre": "Health & Fitness"
+        },
+        {
+          "name": "Focus Keeper - Pomodoro Timer",
+          "developer": "PIXO Incorporation",
+          "rating": 4.8,
+          "reviews": 31251,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/focus-keeper-pomodoro-timer/id867374917?uo=4",
+          "genre": "Productivity"
+        },
+        {
+          "name": "ADHD Organizer, Daily Planner",
+          "developer": "Nota Systems, LLC",
+          "rating": 4.8,
+          "reviews": 1163,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/adhd-organizer-daily-planner/id1494584871?uo=4",
+          "genre": "Productivity"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "54a7b292524a",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "freelance",
+      "title": "Client keeps asking for more and more features after underpaying, what",
+      "body": "TIL from reading another thread that Upwork use an app to track",
+      "author": "firas010hedfi",
+      "url": "https://reddit.com/r/freelance/comments/1o7e5c0/client_keeps_asking_for_more_and_more_features/",
+      "post_date": "2025-10-15",
+      "upvotes": 32,
+      "comments": 57,
+      "category": "Career",
+      "pain_summary": "Freelancer needs to track client requests and payments",
+      "ios_angle": "freelance management app with project tracking and invoicing feature",
+      "signal_strength": "strong",
+      "keywords": [
+        "freelance management",
+        "project tracker",
+        "client payment app"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "Basecamp - Project Management",
+          "developer": "37Signals LLC",
+          "rating": 4.7,
+          "reviews": 20831,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/basecamp-project-management/id1015603248?uo=4",
+          "genre": "Business"
+        },
+        {
+          "name": "Asana: Work Management",
+          "developer": "Asana, Inc.",
+          "rating": 4.7,
+          "reviews": 15527,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/asana-work-management/id489969512?uo=4",
+          "genre": "Business"
+        },
+        {
+          "name": "Smartsheet: Projects & Teams",
+          "developer": "Smartsheet Inc.",
+          "rating": 4.8,
+          "reviews": 112427,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/smartsheet-projects-teams/id568421135?uo=4",
+          "genre": "Business"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "fda7c2fb2b82",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "SomebodyMakeThis",
+      "title": "The most toxic app ever",
+      "body": "I just really don’t like using multiple apps to see if my finances\\",
+      "author": "Wise-Airport3773",
+      "url": "https://reddit.com/r/SomebodyMakeThis/comments/1pboklk/the_most_toxic_app_ever/",
+      "post_date": "2025-12-01",
+      "upvotes": 29,
+      "comments": 20,
+      "category": "Finance",
+      "pain_summary": "User is frustrated with using multiple apps to track finances",
+      "ios_angle": "all-in-one personal finance app with budgeting and tracking features",
+      "signal_strength": "strong",
+      "keywords": [
+        "personal finance app",
+        "budget tracker",
+        "financial management"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "Budget app - spending tracker",
+          "developer": "InnerGrow",
+          "rating": 4.7,
+          "reviews": 14025,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/budget-app-spending-tracker/id1525179720?uo=4",
+          "genre": "Finance"
+        },
+        {
+          "name": "Buddy: Budget Planner App",
+          "developer": "Buddy Budgeting AB",
+          "rating": 4.7,
+          "reviews": 8877,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/buddy-budget-planner-app/id936422955?uo=4",
+          "genre": "Finance"
+        },
+        {
+          "name": "Monefy: Money Tracker",
+          "developer": "Reflective Technologies ApS",
+          "rating": 4.7,
+          "reviews": 6415,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/monefy-money-tracker/id1212024409?uo=4",
+          "genre": "Finance"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "9d672f93c478",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "SomebodyMakeThis",
+      "title": "A dead-simple “Renter’s Digital Vault” app for timestamped move-in/out",
+      "body": "Instead of building an app first, what if you could just describe",
+      "author": "Fuzzy-Ad7685",
+      "url": "https://reddit.com/r/SomebodyMakeThis/comments/1r59vfg/a_deadsimple_renters_digital_vault_app_for/",
+      "post_date": "2026-02-15",
+      "upvotes": 23,
+      "comments": 6,
+      "category": "Utility",
+      "pain_summary": "Need app for timestamped move-in/out records as renter",
+      "ios_angle": "rental inventory management with photo upload and timestamping",
+      "signal_strength": "strong",
+      "keywords": [
+        "rental inventory",
+        "move-in/move-out tracker",
+        "timestamped records"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "Stessa: Smart Rental Manager",
+          "developer": "Stessa, Inc.",
+          "rating": 4.8,
+          "reviews": 5260,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/stessa-smart-rental-manager/id1374556096?uo=4",
+          "genre": "Business"
+        },
+        {
+          "name": "Zillow Rental Manager",
+          "developer": "Zillow.com",
+          "rating": 4.6,
+          "reviews": 11378,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/zillow-rental-manager/id759202892?uo=4",
+          "genre": "Productivity"
+        },
+        {
+          "name": "Rentler",
+          "developer": "TenantCloud LLC",
+          "rating": 4.8,
+          "reviews": 2806,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/rentler/id1522924754?uo=4",
+          "genre": "Lifestyle"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "ea6f50007006",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "SomebodyMakeThis",
+      "title": "Can anyone make an app like this -",
+      "body": "If someone decides to try this and actually go through with making\\",
+      "author": "Affectionate_View378",
+      "url": "https://reddit.com/r/SomebodyMakeThis/comments/1rah2uj/can_anyone_make_an_app_like_this/",
+      "post_date": "2026-02-21",
+      "upvotes": 22,
+      "comments": 34,
+      "category": "Health",
+      "pain_summary": "ADHD-friendly daily planner with dopamine reward system",
+      "ios_angle": "ADHD-friendly daily planner with dopamine reward system",
+      "signal_strength": "strong",
+      "keywords": [
+        "ADHD planner",
+        "focus timer",
+        "task manager ADHD"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "Clarify: ADHD Organizer, Timer",
+          "developer": "Fabulous",
+          "rating": 4.3,
+          "reviews": 2632,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/clarify-adhd-organizer-timer/id1670958524?uo=4",
+          "genre": "Health & Fitness"
+        },
+        {
+          "name": "Focus Keeper - Pomodoro Timer",
+          "developer": "PIXO Incorporation",
+          "rating": 4.8,
+          "reviews": 31251,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/focus-keeper-pomodoro-timer/id867374917?uo=4",
+          "genre": "Productivity"
+        },
+        {
+          "name": "ADHD Organizer, Daily Planner",
+          "developer": "Nota Systems, LLC",
+          "rating": 4.8,
+          "reviews": 1163,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/adhd-organizer-daily-planner/id1494584871?uo=4",
+          "genre": "Productivity"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "e1be55c46ef5",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "SomebodyMakeThis",
+      "title": "Someone just told me they'd pay $5/month for my app, before I even",
+      "body": "Hi everyone, I had this thought about building an app where users\\",
+      "author": "thisischetu",
+      "url": "https://reddit.com/r/SomebodyMakeThis/comments/1nji1xw/someone_just_told_me_theyd_pay_5month_for_my_app/",
+      "post_date": "2025-09-17",
+      "upvotes": 20,
+      "comments": 40,
+      "category": "Health",
+      "pain_summary": "users willing to pay $5/month for an app",
+      "ios_angle": "ADHD-friendly daily planner with dopamine reward system",
+      "signal_strength": "strong",
+      "keywords": [
+        "ADHD planner",
+        "focus timer",
+        "task manager ADHD"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "Clarify: ADHD Organizer, Timer",
+          "developer": "Fabulous",
+          "rating": 4.3,
+          "reviews": 2632,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/clarify-adhd-organizer-timer/id1670958524?uo=4",
+          "genre": "Health & Fitness"
+        },
+        {
+          "name": "Focus Keeper - Pomodoro Timer",
+          "developer": "PIXO Incorporation",
+          "rating": 4.8,
+          "reviews": 31251,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/focus-keeper-pomodoro-timer/id867374917?uo=4",
+          "genre": "Productivity"
+        },
+        {
+          "name": "ADHD Organizer, Daily Planner",
+          "developer": "Nota Systems, LLC",
+          "rating": 4.8,
+          "reviews": 1163,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/adhd-organizer-daily-planner/id1494584871?uo=4",
+          "genre": "Productivity"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "40f1988d1211",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "ynab",
+      "title": "Spending tab: Show Reconciled option gone... the frustration grows",
+      "body": "Howdy YNABers,",
+      "author": "mlwflower",
+      "url": "https://reddit.com/r/ynab/comments/1r51d45/spending_tab_show_reconciled_option_gone_the/",
+      "post_date": "2026-02-15",
+      "upvotes": 11,
+      "comments": 29,
+      "category": "Finance",
+      "pain_summary": "Spending tab: Show Reconciled option gone... the frustration grows",
+      "ios_angle": "budgeting app with reconciled spending feature",
+      "signal_strength": "strong",
+      "keywords": [
+        "YNAB budget",
+        "reconciled spending"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "YNAB",
+          "developer": "You Need A Budget LLC",
+          "rating": 4.8,
+          "reviews": 59234,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/ynab/id1010865877?uo=4",
+          "genre": "Finance"
+        },
+        {
+          "name": "Buddy: Budget Planner App",
+          "developer": "Buddy Budgeting AB",
+          "rating": 4.7,
+          "reviews": 8877,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/buddy-budget-planner-app/id936422955?uo=4",
+          "genre": "Finance"
+        },
+        {
+          "name": "Expense & Budget App: Spendee",
+          "developer": "Cleevio s.r.o.",
+          "rating": 4.6,
+          "reviews": 6092,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/expense-budget-app-spendee/id635861140?uo=4",
+          "genre": "Finance"
+        }
+      ],
+      "market_gap": "competitive"
+    },
+    {
+      "id": "a10e9b37f1e5",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "SomebodyMakeThis",
+      "title": "I need an app to keep my finances and projects at the same place",
+      "body": "Hey everyone — I''ve been working on a budgeting app, really for",
+      "author": "music_dev_mx",
+      "url": "https://reddit.com/r/SomebodyMakeThis/comments/1rdjlgw/i_need_an_app_to_keep_my_finances_and_projects_at/",
+      "post_date": "2026-02-24",
+      "upvotes": 10,
+      "comments": 9,
+      "category": "Finance",
+      "pain_summary": "Need app to keep finances and projects organized",
+      "ios_angle": "ADHD-friendly budgeting app with project management",
+      "signal_strength": "strong",
+      "keywords": [
+        "budgeting app",
+        "project management",
+        "ADHD planner"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "Basecamp - Project Management",
+          "developer": "37Signals LLC",
+          "rating": 4.7,
+          "reviews": 20831,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/basecamp-project-management/id1015603248?uo=4",
+          "genre": "Business"
+        },
+        {
+          "name": "Buddy: Budget Planner App",
+          "developer": "Buddy Budgeting AB",
+          "rating": 4.7,
+          "reviews": 8877,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/buddy-budget-planner-app/id936422955?uo=4",
+          "genre": "Finance"
+        },
+        {
+          "name": "App Store Connect",
+          "developer": "Apple",
+          "rating": 4.7,
+          "reviews": 14165,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/app-store-connect/id1234793120?uo=4",
+          "genre": "Developer Tools"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "5fb8bce117e3",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "shortcuts",
+      "title": "When my partner texts “What do you want for dinner” I reply with a",
+      "body": "",
+      "author": "ScoYello",
+      "url": "https://reddit.com/r/shortcuts/comments/1o26etg/when_my_partner_texts_what_do_you_want_for_dinner/",
+      "post_date": "2025-10-09",
+      "upvotes": 2117,
+      "comments": 289,
+      "category": "FoodDrink",
+      "pain_summary": "Want to automate dinner planning with partner.",
+      "ios_angle": "Dinner planning app with automation features",
+      "signal_strength": "medium",
+      "keywords": [
+        "dinner planning",
+        "partner collaboration",
+        "meal planning"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "Plan to Eat",
+          "developer": "Plan To Eat, LLC",
+          "rating": 4.8,
+          "reviews": 5919,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/plan-to-eat/id1215348056?uo=4",
+          "genre": "Food & Drink"
+        },
+        {
+          "name": "Weekly Dinner Planner",
+          "developer": "Anthony Splaver",
+          "rating": 3.6,
+          "reviews": 10,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/weekly-dinner-planner/id1497466582?uo=4",
+          "genre": "Food & Drink"
+        },
+        {
+          "name": "Real Plans - Meal Planner",
+          "developer": "Holistic Squid, LLC",
+          "rating": 4.6,
+          "reviews": 2157,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/real-plans-meal-planner/id899058990?uo=4",
+          "genre": "Food & Drink"
+        }
+      ],
+      "market_gap": "competitive"
+    },
+    {
+      "id": "4924ccb033ed",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "shortcuts",
+      "title": "I made a Shortcut that turns your actual iPhone Calendar events into",
+      "body": "After both of us being frustrated about what we have for dinner",
+      "author": "agaragou",
+      "url": "https://reddit.com/r/shortcuts/comments/1qb1j74/i_made_a_shortcut_that_turns_your_actual_iphone/",
+      "post_date": "2026-01-12",
+      "upvotes": 1612,
+      "comments": 313,
+      "category": "Uncategorized",
+      "pain_summary": "",
+      "ios_angle": "",
+      "signal_strength": "medium",
+      "keywords": [],
+      "status": "new",
+      "notes": "",
+      "market_gap": "unknown"
+    },
+    {
+      "id": "7b1a8f060e88",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "freelance",
+      "title": "How I stopped working past 8 PM (without losing clients)",
+      "body": "This involves working as a part-time freelance interior designer.\\",
+      "author": "trimplin1",
+      "url": "https://reddit.com/r/freelance/comments/1rh3dqp/how_i_stopped_working_past_8_pm_without_losing/",
+      "post_date": "2026-02-28",
+      "upvotes": 173,
+      "comments": 88,
+      "category": "Career",
+      "pain_summary": "Working past 8 PM without losing clients is unsustainable",
+      "ios_angle": "Time tracking and scheduling app for freelancers to set healthy boundaries",
+      "signal_strength": "medium",
+      "keywords": [
+        "freelance time management",
+        "client scheduling",
+        "work-life balance app"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "Fiverr - Freelance Services",
+          "developer": "Fiverr International Ltd.",
+          "rating": 4.9,
+          "reviews": 561824,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/fiverr-freelance-services/id346080608?uo=4",
+          "genre": "Business"
+        },
+        {
+          "name": "Hours Time Tracking",
+          "developer": "Hours, LLC",
+          "rating": 4.5,
+          "reviews": 7030,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/hours-time-tracking/id895933956?uo=4",
+          "genre": "Business"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "e34dbdf03fce",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "shortcuts",
+      "title": "I made a shortcut that keeps this iPad at certain %’s depending on",
+      "body": "Hi everyone! I’ve always wanted a lock screen that displays my\\",
+      "author": "Impossible-Girl1",
+      "url": "https://reddit.com/r/shortcuts/comments/1ovvcoy/i_made_a_shortcut_that_keeps_this_ipad_at_certain/",
+      "post_date": "2025-11-13",
+      "upvotes": 170,
+      "comments": 57,
+      "category": "Automation",
+      "pain_summary": "Lock screen customization is desired for iPad users",
+      "ios_angle": "Customizable lock screen with widgets and automation features",
+      "signal_strength": "medium",
+      "keywords": [
+        "lock screen customization",
+        "iPad home screen",
+        "widget app"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "Themify - Widget & Icon Themes",
+          "developer": "AIBY",
+          "rating": 4.6,
+          "reviews": 329917,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/themify-widget-icon-themes/id1534126062?uo=4",
+          "genre": "Graphics & Design"
+        },
+        {
+          "name": "Schlage Home",
+          "developer": "Schlage Lock Company",
+          "rating": 4.8,
+          "reviews": 231021,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/schlage-home/id1038212933?uo=4",
+          "genre": "Lifestyle"
+        },
+        {
+          "name": "Lockd Lock Screen Wallpapers",
+          "developer": "iDec Apps S.L.",
+          "rating": 4.7,
+          "reviews": 4010,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/lockd-lock-screen-wallpapers/id1630838956?uo=4",
+          "genre": "Graphics & Design"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "9e06ee0d2e44",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "ynab",
+      "title": "Frustrated at being so ynab broke",
+      "body": "Did anyone else win the payroll timing lottery? My wife just started",
+      "author": "dandylionweed",
+      "url": "https://reddit.com/r/ynab/comments/1lqrz3o/frustrated_at_being_so_ynab_broke/",
+      "post_date": "2025-07-03",
+      "upvotes": 121,
+      "comments": 74,
+      "category": "Finance",
+      "pain_summary": "Frustration with YNAB's budgeting rules and payroll timing",
+      "ios_angle": "Mobile budgeting app with flexible budgeting rules and automated expense tracking",
+      "signal_strength": "medium",
+      "keywords": [
+        "YNAB alternative",
+        "budgeting app",
+        "payroll management"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "YNAB",
+          "developer": "You Need A Budget LLC",
+          "rating": 4.8,
+          "reviews": 59234,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/ynab/id1010865877?uo=4",
+          "genre": "Finance"
+        },
+        {
+          "name": "Buddy: Budget Planner App",
+          "developer": "Buddy Budgeting AB",
+          "rating": 4.7,
+          "reviews": 8877,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/buddy-budget-planner-app/id936422955?uo=4",
+          "genre": "Finance"
+        },
+        {
+          "name": "EveryDollar: Budget Management",
+          "developer": "The Lampo Group Incorporated",
+          "rating": 4.7,
+          "reviews": 83007,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/everydollar-budget-management/id942571931?uo=4",
+          "genre": "Finance"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "2b72f7ea5053",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "MealPrepSunday",
+      "title": "All set for the week! 2.5 hours for 20 meals",
+      "body": "",
+      "author": "fryed4life517",
+      "url": "https://reddit.com/r/MealPrepSunday/comments/1rihxnr/all_set_for_the_week_25_hours_for_20_meals/",
+      "post_date": "2026-03-02",
+      "upvotes": 91,
+      "comments": 17,
+      "category": "FoodDrink",
+      "pain_summary": "preparing meals in bulk takes 2.5 hours",
+      "ios_angle": "Meal prep planning and grocery list generator",
+      "signal_strength": "medium",
+      "keywords": [
+        "meal prep planner",
+        "grocery list app"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "MealPrepPro Planner & Recipes",
+          "developer": "Nibble Apps Ltd",
+          "rating": 4.7,
+          "reviews": 10326,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/mealpreppro-planner-recipes/id1249805978?uo=4",
+          "genre": "Food & Drink"
+        },
+        {
+          "name": "Eat This Much - Meal Planner",
+          "developer": "Eat This Much Inc.",
+          "rating": 4.7,
+          "reviews": 21843,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/eat-this-much-meal-planner/id981637806?uo=4",
+          "genre": "Health & Fitness"
+        },
+        {
+          "name": "eMeals - Healthy Meal Plans",
+          "developer": "eMeals, Inc.",
+          "rating": 4.6,
+          "reviews": 51441,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/emeals-healthy-meal-plans/id575756462?uo=4",
+          "genre": "Food & Drink"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "3f0a6a8aa505",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "SomebodyMakeThis",
+      "title": "A \"dating\" app where you can post an event you are going to, and find",
+      "body": "I consume a lot of content on YouTube (informational) or read blogs.",
+      "author": "Intelligent-Bottle22",
+      "url": "https://reddit.com/r/SomebodyMakeThis/comments/1rptkx7/a_dating_app_where_you_can_post_an_event_you_are/",
+      "post_date": "2026-03-10",
+      "upvotes": 38,
+      "comments": 15,
+      "category": "Social",
+      "pain_summary": "App that helps find people attending events is desired",
+      "ios_angle": "event-based social networking app with RSVP system",
+      "signal_strength": "medium",
+      "keywords": [
+        "event finder",
+        "social event planner",
+        "meetup app"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "Meetup for Organizers",
+          "developer": "Meetup LLC",
+          "rating": 4.6,
+          "reviews": 5993,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/meetup-for-organizers/id1581498347?uo=4",
+          "genre": "Social Networking"
+        },
+        {
+          "name": "Eventee - Your Event Buddy",
+          "developer": "Eventee s.r.o.",
+          "rating": 4.9,
+          "reviews": 2120,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/eventee-your-event-buddy/id1284946481?uo=4",
+          "genre": "Productivity"
+        },
+        {
+          "name": "Plots - Host & Find Events",
+          "developer": "Plots Inc.",
+          "rating": 4.8,
+          "reviews": 2273,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/plots-host-find-events/id1633178565?uo=4",
+          "genre": "Social Networking"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "066c4cf71995",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "ynab",
+      "title": "Anyone else wish you could “pair” transactions in YNAB for reimbursements?",
+      "body": "With the most recent update, YNAB removed the “Show Reconciled”",
+      "author": "_Golden_Teacher_",
+      "url": "https://reddit.com/r/ynab/comments/1o7kd3i/anyone_else_wish_you_could_pair_transactions_in/",
+      "post_date": "2025-10-15",
+      "upvotes": 34,
+      "comments": 52,
+      "category": "Finance",
+      "pain_summary": "YNAB user wishes to pair transactions for reimbursements",
+      "ios_angle": "reimbursement pairing feature in budgeting app",
+      "signal_strength": "medium",
+      "keywords": [
+        "budgeting app",
+        "transaction pairing",
+        "reimbursement tracker"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "Monarch: Budget & Track Money",
+          "developer": "Monarch Money, Inc.",
+          "rating": 4.9,
+          "reviews": 83835,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/monarch-budget-track-money/id1459319842?uo=4",
+          "genre": "Finance"
+        },
+        {
+          "name": "Buddy: Budget Planner App",
+          "developer": "Buddy Budgeting AB",
+          "rating": 4.7,
+          "reviews": 8877,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/buddy-budget-planner-app/id936422955?uo=4",
+          "genre": "Finance"
+        },
+        {
+          "name": "Budget App & Expense Tracker",
+          "developer": "Bookipi Pty Ltd",
+          "rating": 4.8,
+          "reviews": 2687,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/budget-app-expense-tracker/id1448335613?uo=4",
+          "genre": "Finance"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "b0898ee59541",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "SomebodyMakeThis",
+      "title": "APP IDEA: Pinterest/Pinterest board for memes",
+      "body": "We all do it. We watch YouTube videos, read books by successful",
+      "author": "Ok-University7215",
+      "url": "https://reddit.com/r/SomebodyMakeThis/comments/1q4tj0z/app_idea_pinterestpinterest_board_for_memes/",
+      "post_date": "2026-01-05",
+      "upvotes": 30,
+      "comments": 18,
+      "category": "Social",
+      "pain_summary": "App that helps users discover and save memes is desired",
+      "ios_angle": "meme discovery app with tagging system and sharing feature",
+      "signal_strength": "medium",
+      "keywords": [
+        "meme saver",
+        "social meme platform",
+        "memes app"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "MemeApp & I Have A Meme!",
+          "developer": "Tap Tap Entertainment",
+          "rating": 4.4,
+          "reviews": 2538,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/memeapp-i-have-a-meme/id412629178?uo=4",
+          "genre": "Entertainment"
+        },
+        {
+          "name": "MEME Maker`",
+          "developer": "Gaurav Vashishtha",
+          "rating": 4.2,
+          "reviews": 5657,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/meme-maker/id1234184445?uo=4",
+          "genre": "Entertainment"
+        },
+        {
+          "name": "Bluesky Social",
+          "developer": "Bluesky PBLLC",
+          "rating": 3.9,
+          "reviews": 13257,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/bluesky-social/id6444370199?uo=4",
+          "genre": "Social Networking"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "ca8560a23a72",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "ynab",
+      "title": "A simpler alternative to YNAB?",
+      "body": "",
+      "author": "sleekhairbear",
+      "url": "https://reddit.com/r/ynab/comments/1s043o9/a_simpler_alternative_to_ynab/",
+      "post_date": "2026-03-22",
+      "upvotes": 26,
+      "comments": 47,
+      "category": "Finance",
+      "pain_summary": "Looking for simpler alternative to YNAB budgeting app",
+      "ios_angle": "budget tracker with automated savings goals",
+      "signal_strength": "medium",
+      "keywords": [
+        "YNAB alternative",
+        "simple budgeting",
+        "automated savings"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "YNAB",
+          "developer": "You Need A Budget LLC",
+          "rating": 4.8,
+          "reviews": 59234,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/ynab/id1010865877?uo=4",
+          "genre": "Finance"
+        },
+        {
+          "name": "EveryDollar: Budget Management",
+          "developer": "The Lampo Group Incorporated",
+          "rating": 4.7,
+          "reviews": 83007,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/everydollar-budget-management/id942571931?uo=4",
+          "genre": "Finance"
+        },
+        {
+          "name": "Goodbudget Budget Planner",
+          "developer": "Dayspring Technologies",
+          "rating": 4.6,
+          "reviews": 13169,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/goodbudget-budget-planner/id471112395?uo=4",
+          "genre": "Finance"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "e4ac5caa4572",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "indiehackers",
+      "title": "What mobile app are you building? let's self-promote!",
+      "body": "While building products I kept hitting the same problem:",
+      "author": "avalanche-43",
+      "url": "https://reddit.com/r/indiehackers/comments/1p13mu8/what_mobile_app_are_you_building_lets_selfpromote/",
+      "post_date": "2025-11-19",
+      "upvotes": 21,
+      "comments": 181,
+      "category": "Education",
+      "pain_summary": "problem: finding users for a mobile app",
+      "ios_angle": "app discovery platform",
+      "signal_strength": "medium",
+      "keywords": [
+        "find new users",
+        "mobile app marketing"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "App Store Connect",
+          "developer": "Apple",
+          "rating": 4.7,
+          "reviews": 14165,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/app-store-connect/id1234793120?uo=4",
+          "genre": "Developer Tools"
+        },
+        {
+          "name": "Plai - Marketing",
+          "developer": "Plai Inc.",
+          "rating": 4.1,
+          "reviews": 166,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/plai-marketing/id1458128279?uo=4",
+          "genre": "Productivity"
+        },
+        {
+          "name": "App Studio: Create an app",
+          "developer": "Apps Ltd LLC",
+          "rating": 4.4,
+          "reviews": 2241,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/app-studio-create-an-app/id1326594410?uo=4",
+          "genre": "Business"
+        }
+      ],
+      "market_gap": "competitive"
+    },
+    {
+      "id": "2d2be028ccf0",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "SideProject",
+      "title": "I built my first app out of love. Nobody cared. Then I built one for",
+      "body": "I have an idea.",
+      "author": "Right-Ad-1216",
+      "url": "https://reddit.com/r/SideProject/comments/1rk3u7e/i_built_my_first_app_out_of_love_nobody_cared/",
+      "post_date": "2026-03-04",
+      "upvotes": 17,
+      "comments": 25,
+      "category": "Education",
+      "pain_summary": "building an app that nobody cares about",
+      "ios_angle": "app discovery platform",
+      "signal_strength": "medium",
+      "keywords": [
+        "find new users",
+        "mobile app marketing"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "App Store Connect",
+          "developer": "Apple",
+          "rating": 4.7,
+          "reviews": 14165,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/app-store-connect/id1234793120?uo=4",
+          "genre": "Developer Tools"
+        },
+        {
+          "name": "Plai - Marketing",
+          "developer": "Plai Inc.",
+          "rating": 4.1,
+          "reviews": 166,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/plai-marketing/id1458128279?uo=4",
+          "genre": "Productivity"
+        },
+        {
+          "name": "App Studio: Create an app",
+          "developer": "Apps Ltd LLC",
+          "rating": 4.4,
+          "reviews": 2241,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/app-studio-create-an-app/id1326594410?uo=4",
+          "genre": "Business"
+        }
+      ],
+      "market_gap": "competitive"
+    },
+    {
+      "id": "7098fcd7357c",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "SomebodyMakeThis",
+      "title": "A minimalist net worth app for people who only update their finances",
+      "body": "Somebody Make This:",
+      "author": "Stycroft",
+      "url": "https://reddit.com/r/SomebodyMakeThis/comments/1okss62/a_minimalist_net_worth_app_for_people_who_only/",
+      "post_date": "2025-10-31",
+      "upvotes": 15,
+      "comments": 22,
+      "category": "Finance",
+      "pain_summary": "Minimalist net worth app for people who only update finances occasionally",
+      "ios_angle": "Net worth app with simple and intuitive interface",
+      "signal_strength": "medium",
+      "keywords": [
+        "net worth app",
+        "simple finance tracker",
+        "budgeting app"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "Copilot: Track & Budget Money",
+          "developer": "Copilot Money, Inc.",
+          "rating": 4.8,
+          "reviews": 27826,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/copilot-track-budget-money/id1447330651?uo=4",
+          "genre": "Finance"
+        },
+        {
+          "name": "Monarch: Budget & Track Money",
+          "developer": "Monarch Money, Inc.",
+          "rating": 4.9,
+          "reviews": 83835,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/monarch-budget-track-money/id1459319842?uo=4",
+          "genre": "Finance"
+        },
+        {
+          "name": "NerdWallet: Smart Money App",
+          "developer": "NerdWallet",
+          "rating": 4.8,
+          "reviews": 122758,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/nerdwallet-smart-money-app/id1174471607?uo=4",
+          "genre": "Finance"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "2240998836a8",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "SideProject",
+      "title": "What is the main point to decide mobile app/wep app?",
+      "body": "I wanted to share a side project I’ve been working on for the past\\",
+      "author": "Grouchy_Word_9902",
+      "url": "https://reddit.com/r/SideProject/comments/1q91diz/what_is_the_main_point_to_decide_mobile_appwep_app/",
+      "post_date": "2026-01-10",
+      "upvotes": 11,
+      "comments": 27,
+      "category": "Education",
+      "pain_summary": "main point to decide mobile app/web app",
+      "ios_angle": "mobile app development decision guide",
+      "signal_strength": "medium",
+      "keywords": [
+        "app vs web",
+        "mobile app development"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "App Store Connect",
+          "developer": "Apple",
+          "rating": 4.7,
+          "reviews": 14165,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/app-store-connect/id1234793120?uo=4",
+          "genre": "Developer Tools"
+        },
+        {
+          "name": "Replit: Vibe Code Apps",
+          "developer": "Replit",
+          "rating": 4.7,
+          "reviews": 14475,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/replit-vibe-code-apps/id1614022293?uo=4",
+          "genre": "Developer Tools"
+        },
+        {
+          "name": "Expo Go",
+          "developer": "Nametag",
+          "rating": 4.8,
+          "reviews": 5098,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/expo-go/id982107779?uo=4",
+          "genre": "Developer Tools"
+        }
+      ],
+      "market_gap": "competitive"
+    },
+    {
+      "id": "3de79a1ee0cc",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "ynab",
+      "title": "This needs to be an “X” instead of a ☑️",
+      "body": "If so, which one? And if not, what did you try and why did you go",
+      "author": "Odd-Kick-2620",
+      "url": "https://reddit.com/r/ynab/comments/1onbnoe/this_needs_to_be_an_x_instead_of_a/",
+      "post_date": "2025-11-03",
+      "upvotes": 181,
+      "comments": 26,
+      "category": "Finance",
+      "pain_summary": "Need to replace a checkbox with an X in YNAB",
+      "ios_angle": "YNAB checkbox replacement app",
+      "signal_strength": "weak",
+      "keywords": [
+        "ynab checkbox",
+        "ynab x button",
+        "ynab edit mode"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "YNAB",
+          "developer": "You Need A Budget LLC",
+          "rating": 4.8,
+          "reviews": 59234,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/ynab/id1010865877?uo=4",
+          "genre": "Finance"
+        },
+        {
+          "name": "Chase Mobile®: Bank & Invest",
+          "developer": "JPMorgan Chase & Co.",
+          "rating": 4.8,
+          "reviews": 8955647,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/chase-mobile-bank-invest/id298867247?uo=4",
+          "genre": "Finance"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "f57e154fcf50",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "SideProject",
+      "title": "I built a rejection therapy app to overcome my biggest fear. Now it",
+      "body": "**This year my wife and I gave ourselves a strange kind of challenge:**",
+      "author": "coco_nik",
+      "url": "https://reddit.com/r/SideProject/comments/1lxxtbk/i_built_a_rejection_therapy_app_to_overcome_my/",
+      "post_date": "2025-07-12",
+      "upvotes": 124,
+      "comments": 75,
+      "category": "MentalHealth",
+      "pain_summary": "Rejection therapy app helped the developer overcome their biggest fear",
+      "ios_angle": "ADHD-friendly rejection therapy app with gamification features",
+      "signal_strength": "weak",
+      "keywords": [
+        "rejection therapy app",
+        "ADHD mental health",
+        "gamified self-improvement"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "SonderMind - Mental Health",
+          "developer": "Sondermind lnc.",
+          "rating": 4.7,
+          "reviews": 10086,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/sondermind-mental-health/id1475263597?uo=4",
+          "genre": "Health & Fitness"
+        },
+        {
+          "name": "BetterHelp - Therapy",
+          "developer": "BetterHelp",
+          "rating": 4.8,
+          "reviews": 146578,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/betterhelp-therapy/id995252384?uo=4",
+          "genre": "Health & Fitness"
+        },
+        {
+          "name": "Brightside Health",
+          "developer": "Brightside Health Inc",
+          "rating": 4.3,
+          "reviews": 9183,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/brightside-health/id1591640582?uo=4",
+          "genre": "Medical"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "fb22c5ca1d79",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "ynab",
+      "title": "Targets need an overhaul",
+      "body": "Me and my wife have been using YNAB together for some time now.",
+      "author": "Deliquate",
+      "url": "https://reddit.com/r/ynab/comments/1o7vyeo/targets_need_an_overhaul/",
+      "post_date": "2025-10-16",
+      "upvotes": 120,
+      "comments": 71,
+      "category": "Finance",
+      "pain_summary": "Targets in YNAB need an overhaul for better budgeting experience",
+      "ios_angle": "Customizable budgeting targets with automated savings tracking",
+      "signal_strength": "weak",
+      "keywords": [
+        "YNAB customization",
+        "budgeting targets",
+        "savings tracker"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "YNAB",
+          "developer": "You Need A Budget LLC",
+          "rating": 4.8,
+          "reviews": 59234,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/ynab/id1010865877?uo=4",
+          "genre": "Finance"
+        },
+        {
+          "name": "Buddy: Budget Planner App",
+          "developer": "Buddy Budgeting AB",
+          "rating": 4.7,
+          "reviews": 8877,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/buddy-budget-planner-app/id936422955?uo=4",
+          "genre": "Finance"
+        }
+      ],
+      "market_gap": "competitive"
+    },
+    {
+      "id": "2e9462ced007",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "freelance",
+      "title": "Client wants to switch from daily billing to hourly billing after receiving",
+      "body": "How to build a client base and get projects without using third",
+      "author": "LemonTart-12",
+      "url": "https://reddit.com/r/freelance/comments/1rirozj/client_wants_to_switch_from_daily_billing_to/",
+      "post_date": "2026-03-02",
+      "upvotes": 117,
+      "comments": 100,
+      "category": "Career",
+      "pain_summary": "Client wants to switch from daily billing to hourly billing, seeking advice on how to handle this change",
+      "ios_angle": "Mobile app for freelancers to manage client relationships and billing cycles",
+      "signal_strength": "weak",
+      "keywords": [
+        "freelance billing",
+        "client management",
+        "hourly vs daily billing"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "HoneyBook - Small Business CRM",
+          "developer": "HoneyBook Inc.",
+          "rating": 4.8,
+          "reviews": 15701,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/honeybook-small-business-crm/id1104772757?uo=4",
+          "genre": "Business"
+        },
+        {
+          "name": "Fiverr - Freelance Services",
+          "developer": "Fiverr International Ltd.",
+          "rating": 4.9,
+          "reviews": 561824,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/fiverr-freelance-services/id346080608?uo=4",
+          "genre": "Business"
+        },
+        {
+          "name": "Billdu: Invoice Estimate Maker",
+          "developer": "BILLDU LTD",
+          "rating": 4.8,
+          "reviews": 24864,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/billdu-invoice-estimate-maker/id527885754?uo=4",
+          "genre": "Business"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "119318afa00d",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "indiehackers",
+      "title": "I'm building the opposite of Notion. It's a notes app where you can't",
+      "body": "Haven't seen much mobile apps here. I'm building [https://loverzz.app/](https://loverzz.app/),\\",
+      "author": "GoodMacAuth",
+      "url": "https://reddit.com/r/indiehackers/comments/1r9zjq7/im_building_the_opposite_of_notion_its_a_notes/",
+      "post_date": "2026-02-20",
+      "upvotes": 110,
+      "comments": 104,
+      "category": "Productivity",
+      "pain_summary": "Building a notes app with no editing capabilities",
+      "ios_angle": "Notes app without editing features",
+      "signal_strength": "weak",
+      "keywords": [
+        "notes app without edit",
+        "no editing notes app"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "Notepad - Simple Notes & Memo",
+          "developer": "Komorebi Inc.",
+          "rating": 4.8,
+          "reviews": 5992,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/notepad-simple-notes-memo/id1004291915?uo=4",
+          "genre": "Business"
+        },
+        {
+          "name": "SuperNote Notes Recorder+Photo",
+          "developer": "FITNESS22 LTD",
+          "rating": 4.9,
+          "reviews": 4448,
+          "price": "$19.99",
+          "url": "https://apps.apple.com/us/app/supernote-notes-recorder-photo/id484001216?uo=4",
+          "genre": "Productivity"
+        },
+        {
+          "name": "Goodnotes: AI Notes, Docs, PDF",
+          "developer": "Goodnotes Limited",
+          "rating": 4.7,
+          "reviews": 414074,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/goodnotes-ai-notes-docs-pdf/id1444383602?uo=4",
+          "genre": "Productivity"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "51607162676a",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "shortcuts",
+      "title": "I wish I could trigger this entire “Going to Work” Live Activity just",
+      "body": "The automation works by having 90+ automations. Every 10 minutes,",
+      "author": "Asohailwahab",
+      "url": "https://reddit.com/r/shortcuts/comments/1r49se9/i_wish_i_could_trigger_this_entire_going_to_work/",
+      "post_date": "2026-02-14",
+      "upvotes": 104,
+      "comments": 54,
+      "category": "Automation",
+      "pain_summary": "triggering Live Activity automation fails",
+      "ios_angle": "Live Activity trigger automation for work commutes",
+      "signal_strength": "weak",
+      "keywords": [
+        "live activity automation",
+        "work commute tracker"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "Walkmeter Walking & Hiking GPS",
+          "developer": "Abvio Inc.",
+          "rating": 4.7,
+          "reviews": 13068,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/walkmeter-walking-hiking-gps/id330594424?uo=4",
+          "genre": "Health & Fitness"
+        },
+        {
+          "name": "Work Log - Shift Tracker",
+          "developer": "AR Productions Inc",
+          "rating": 4.8,
+          "reviews": 3582,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/work-log-shift-tracker/id1578126960?uo=4",
+          "genre": "Utilities"
+        },
+        {
+          "name": "Atto: Time Tracking & Shifts",
+          "developer": "Specta Labs, Inc.",
+          "rating": 4.6,
+          "reviews": 3188,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/atto-time-tracking-shifts/id1132847984?uo=4",
+          "genre": "Business"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "96b0917f7a4e",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "SideProject",
+      "title": "I built an app for generating personalized recipes",
+      "body": "Hey everyone! I''m Curious to see what other founders are building",
+      "author": "Timely-Move-3087",
+      "url": "https://reddit.com/r/SideProject/comments/1pwaz5e/i_built_an_app_for_generating_personalized_recipes/",
+      "post_date": "2025-12-26",
+      "upvotes": 83,
+      "comments": 19,
+      "category": "FoodDrink",
+      "pain_summary": "Need personalized recipes",
+      "ios_angle": "Recipe generator with dietary filters",
+      "signal_strength": "weak",
+      "keywords": [
+        "recipe generator",
+        "dietary planner",
+        "meal planning app"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "eMeals - Healthy Meal Plans",
+          "developer": "eMeals, Inc.",
+          "rating": 4.6,
+          "reviews": 51441,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/emeals-healthy-meal-plans/id575756462?uo=4",
+          "genre": "Food & Drink"
+        },
+        {
+          "name": "Samsung Food: Meal Planner",
+          "developer": "Whisk food",
+          "rating": 4.8,
+          "reviews": 6145,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/samsung-food-meal-planner/id1133637674?uo=4",
+          "genre": "Food & Drink"
+        },
+        {
+          "name": "MealBoard - Meal Planner",
+          "developer": "Ray Bernardo",
+          "rating": 4.6,
+          "reviews": 2424,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/mealboard-meal-planner/id333425918?uo=4",
+          "genre": "Food & Drink"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "333937d97c7b",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "AppIdeas",
+      "title": "6 app ideas from real reddit complaints that have zero good solutions",
+      "body": "I’ve been working on a personal finance tracker lately, and before",
+      "author": "Mysterious_Yard_7803",
+      "url": "https://reddit.com/r/AppIdeas/comments/1rzrhjm/6_app_ideas_from_real_reddit_complaints_that_have/",
+      "post_date": "2026-03-21",
+      "upvotes": 75,
+      "comments": 37,
+      "category": "Finance",
+      "pain_summary": "looking for solutions to common finance problems",
+      "ios_angle": "Personal finance tracker with automated expense categorization",
+      "signal_strength": "weak",
+      "keywords": [
+        "personal finance app",
+        "expense tracker"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "Pocket Expense 6",
+          "developer": "Nova Mobile, Inc.",
+          "rating": 3.9,
+          "reviews": 2047,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/pocket-expense-6/id424575621?uo=4",
+          "genre": "Finance"
+        },
+        {
+          "name": "Expenses OK - expenses tracker",
+          "developer": "Mobion OOO",
+          "rating": 4.8,
+          "reviews": 4599,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/expenses-ok-expenses-tracker/id932322041?uo=4",
+          "genre": "Finance"
+        },
+        {
+          "name": "Receipt Lens - Expense Tracker",
+          "developer": "Glority Global Group Ltd.",
+          "rating": 4.7,
+          "reviews": 4214,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/receipt-lens-expense-tracker/id1424280764?uo=4",
+          "genre": "Finance"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "008c1d0bbad5",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "SomebodyMakeThis",
+      "title": "Apps you wish existed but dont",
+      "body": "To any programmer guy here ?\\n\\nCan you make an app like this -\\",
+      "author": "Verolalala",
+      "url": "https://reddit.com/r/SomebodyMakeThis/comments/1l705jf/apps_you_wish_existed_but_dont/",
+      "post_date": "2025-06-09",
+      "upvotes": 71,
+      "comments": 154,
+      "category": "skip",
+      "pain_summary": "",
+      "ios_angle": "",
+      "signal_strength": "weak",
+      "keywords": [],
+      "status": "new",
+      "notes": "",
+      "market_gap": "unknown"
+    },
+    {
+      "id": "b1bb6005c8fd",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "SideProject",
+      "title": "12 Apps in 2025\" challenge with my wife ~ 4,000 usd MRR",
+      "body": "**Hey folks!**\\n\\nI’ve been working on a side project called **Subtask\\",
+      "author": "FlimsyWing9",
+      "url": "https://reddit.com/r/SideProject/comments/1pdx8al/12_apps_in_2025_challenge_with_my_wife_4000_usd/",
+      "post_date": "2025-12-04",
+      "upvotes": 60,
+      "comments": 45,
+      "category": "Education",
+      "pain_summary": "side project Subtask aims to help users manage tasks",
+      "ios_angle": "Task management app with automated task assignment",
+      "signal_strength": "weak",
+      "keywords": [
+        "task manager",
+        "productivity app"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "Productivity - Daily Planner",
+          "developer": "Success Wizard, Inc.",
+          "rating": 4.7,
+          "reviews": 2056,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/productivity-daily-planner/id670870972?uo=4",
+          "genre": "Productivity"
+        },
+        {
+          "name": "gTasks for Google Tasks",
+          "developer": "JulyApps Ltd",
+          "rating": 4.6,
+          "reviews": 2787,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/gtasks-for-google-tasks/id428249408?uo=4",
+          "genre": "Productivity"
+        },
+        {
+          "name": "Notion: Notes, Tasks, AI",
+          "developer": "Notion Labs, Incorporated",
+          "rating": 4.8,
+          "reviews": 80659,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/notion-notes-tasks-ai/id1232780281?uo=4",
+          "genre": "Productivity"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "137eb81c0b62",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "SomebodyMakeThis",
+      "title": "APP IDEA: LinkedIn But For Landlords and Tenants Where They Can discover",
+      "body": "Right now, most memes I like end up as:\\n\\t•\\tscreenshots\\n\\t•\\t\\",
+      "author": "Ok-University7215",
+      "url": "https://reddit.com/r/SomebodyMakeThis/comments/1q4flcv/app_idea_linkedin_but_for_landlords_and_tenants/",
+      "post_date": "2026-01-05",
+      "upvotes": 47,
+      "comments": 16,
+      "category": "Social",
+      "pain_summary": "looking for app idea for landlords and tenants to discover properties",
+      "ios_angle": "Real estate discovery app for landlords and tenants",
+      "signal_strength": "weak",
+      "keywords": [
+        "real estate app",
+        "landlord tenant platform"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "Stessa: Smart Rental Manager",
+          "developer": "Stessa, Inc.",
+          "rating": 4.8,
+          "reviews": 5260,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/stessa-smart-rental-manager/id1374556096?uo=4",
+          "genre": "Business"
+        },
+        {
+          "name": "Zillow Rental Manager",
+          "developer": "Zillow.com",
+          "rating": 4.6,
+          "reviews": 11378,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/zillow-rental-manager/id759202892?uo=4",
+          "genre": "Productivity"
+        },
+        {
+          "name": "Innago: Landlord & Tenant App",
+          "developer": "Innago LLC",
+          "rating": 4.4,
+          "reviews": 810,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/innago-landlord-tenant-app/id1499627499?uo=4",
+          "genre": "Business"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "f67032ab779b",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "ynab",
+      "title": "New moderators needed - comment on this post to volunteer to become",
+      "body": "The reason was that I don't really have a lot of money to budget\\",
+      "author": "ModCodeofConduct",
+      "url": "https://reddit.com/r/ynab/comments/1sa4jzz/new_moderators_needed_comment_on_this_post_to/",
+      "post_date": "2026-04-02",
+      "upvotes": 45,
+      "comments": 25,
+      "category": "Finance",
+      "pain_summary": "Need new moderators for YNAB community",
+      "ios_angle": "YNAB mod finder app",
+      "signal_strength": "weak",
+      "keywords": [
+        "ynab mod search",
+        "ynab moderator finder"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "Natural - Search Perfected",
+          "developer": "brain.ai",
+          "rating": 2.4,
+          "reviews": 5,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/natural-search-perfected/id1521375720?uo=4",
+          "genre": "Productivity"
+        },
+        {
+          "name": "Shadowsearch: AI Assistant",
+          "developer": "Koi Apps",
+          "rating": 4.4,
+          "reviews": 3747,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/shadowsearch-ai-assistant/id1672003086?uo=4",
+          "genre": "Productivity"
+        }
+      ],
+      "market_gap": "competitive"
+    },
+    {
+      "id": "885d29beede3",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "BuyItForLife",
+      "title": "The Best Smart Scale for Body Weight at the Moment?",
+      "body": "So far the wireless earbuds that I've used throughout my life (that\\",
+      "author": "oliviadaisy5432",
+      "url": "https://reddit.com/r/BuyItForLife/comments/1qgy76e/the_best_smart_scale_for_body_weight_at_the_moment/",
+      "post_date": "2026-01-19",
+      "upvotes": 28,
+      "comments": 54,
+      "category": "Fitness",
+      "pain_summary": "Looking for best smart scale for body weight",
+      "ios_angle": "Smart scale with body fat analysis and tracking",
+      "signal_strength": "weak",
+      "keywords": [
+        "smart scale",
+        "body fat tracker",
+        "weight loss app"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "Happy Scale",
+          "developer": "Front Pocket Software LLC",
+          "rating": 4.9,
+          "reviews": 56854,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/happy-scale/id532430574?uo=4",
+          "genre": "Health & Fitness"
+        },
+        {
+          "name": "Progress Body Tracker: My BMI",
+          "developer": "Lasmit TLB Ltd",
+          "rating": 4.6,
+          "reviews": 9113,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/progress-body-tracker-my-bmi/id583840813?uo=4",
+          "genre": "Health & Fitness"
+        },
+        {
+          "name": "MeThreeSixty: 3D Body Scan・BMI",
+          "developer": "Size Stream LLC",
+          "rating": 4.8,
+          "reviews": 17657,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/methreesixty-3d-body-scan-bmi/id1472541261?uo=4",
+          "genre": "Health & Fitness"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "253834811e7b",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "SideProject",
+      "title": "How to Build a Full App Using Only AI Tools (No Developers Needed)",
+      "body": "Over the past week, I built and launched [Vimo](https://apps.apple.com/us/app/vimo-visual-routine/id6759303834),\\",
+      "author": "nightthustler",
+      "url": "https://reddit.com/r/SideProject/comments/1odeeae/how_to_build_a_full_app_using_only_ai_tools_no/",
+      "post_date": "2025-10-22",
+      "upvotes": 23,
+      "comments": 18,
+      "category": "Utility",
+      "pain_summary": "Built app using AI tools without developers",
+      "ios_angle": "AI-powered app builder for non-coders",
+      "signal_strength": "weak",
+      "keywords": [
+        "ai app builder",
+        "no code development",
+        "app creation tool"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "Replit: Vibe Code Apps",
+          "developer": "Replit",
+          "rating": 4.7,
+          "reviews": 14475,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/replit-vibe-code-apps/id1614022293?uo=4",
+          "genre": "Developer Tools"
+        },
+        {
+          "name": "Emergent AI: Vibe Code Apps",
+          "developer": "Emergent Labs Inc",
+          "rating": 3.9,
+          "reviews": 78,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/emergent-ai-vibe-code-apps/id6748029391?uo=4",
+          "genre": "Developer Tools"
+        },
+        {
+          "name": "OnSpace AI: Mobile App Builder",
+          "developer": "SoulZ AI Inc.",
+          "rating": 3.8,
+          "reviews": 19,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/onspace-ai-mobile-app-builder/id6746471538?uo=4",
+          "genre": "Developer Tools"
+        }
+      ],
+      "market_gap": "competitive"
+    },
+    {
+      "id": "de2f3abd45d5",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "shortcuts",
+      "title": "Need help with action button menu",
+      "body": "Hey guys, so I need help getting this to work, I know there is pre-made",
+      "author": "DepressedIceCream",
+      "url": "https://reddit.com/r/shortcuts/comments/1onvptc/need_help_with_action_button_menu/",
+      "post_date": "2025-11-04",
+      "upvotes": 15,
+      "comments": 31,
+      "category": "Automation",
+      "pain_summary": "Need help with action button menu",
+      "ios_angle": "Customizable action button menu for shortcuts",
+      "signal_strength": "weak",
+      "keywords": [
+        "action button menu",
+        "custom shortcut",
+        "shortcut automation"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "Phone Finder by Clap Shortcuts",
+          "developer": "Tool Jar Tech",
+          "rating": 4.7,
+          "reviews": 16087,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/phone-finder-by-clap-shortcuts/id6479242933?uo=4",
+          "genre": "Utilities"
+        },
+        {
+          "name": "Shortcuts for Action Button 15",
+          "developer": "Deepansh Jagga",
+          "rating": 4.3,
+          "reviews": 131,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/shortcuts-for-action-button-15/id6450391244?uo=4",
+          "genre": "Productivity"
+        }
+      ],
+      "market_gap": "opportunity"
+    },
+    {
+      "id": "342e7f7aa814",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "indiehackers",
+      "title": "I built a tool that audits your app or website from recordings or screenshots",
+      "body": "Hey there,",
+      "author": "DaPreachingRobot",
+      "url": "https://reddit.com/r/indiehackers/comments/1rwzwci/i_built_a_tool_that_audits_your_app_or_website/",
+      "post_date": "2026-03-18",
+      "upvotes": 14,
+      "comments": 54,
+      "category": "Automation",
+      "pain_summary": "audit app or website from recordings or screenshots",
+      "ios_angle": "mobile app audit tool with screenshot analysis",
+      "signal_strength": "weak",
+      "keywords": [
+        "app audit",
+        "website scanner"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "JotNot Scanner App Pro",
+          "developer": "MobiTech 3000 LLC",
+          "rating": 4.9,
+          "reviews": 29936,
+          "price": "$6.99",
+          "url": "https://apps.apple.com/us/app/jotnot-scanner-app-pro/id307868751?uo=4",
+          "genre": "Business"
+        },
+        {
+          "name": "Scanner: Scan Documents",
+          "developer": "DISTRITO SLU",
+          "rating": 4.7,
+          "reviews": 6858,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/scanner-scan-documents/id1519510717?uo=4",
+          "genre": "Business"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "2108459be38c",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "AppIdeas",
+      "title": "You don’t need another app!",
+      "body": "Hey folks,  \\nI’m a developer looking to build a simple, useful\\",
+      "author": "AppleProUser",
+      "url": "https://reddit.com/r/AppIdeas/comments/1rgj1ab/you_dont_need_another_app/",
+      "post_date": "2026-02-28",
+      "upvotes": 13,
+      "comments": 11,
+      "category": "Utility",
+      "pain_summary": "Need a simple, useful app idea",
+      "ios_angle": "Simple habit tracker with AI suggestions",
+      "signal_strength": "weak",
+      "keywords": [
+        "habit tracker",
+        "simple app",
+        "AI habit suggestions"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "Habit Tracker",
+          "developer": "InnerGrow",
+          "rating": 4.8,
+          "reviews": 138480,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/habit-tracker/id1438388363?uo=4",
+          "genre": "Productivity"
+        },
+        {
+          "name": "Habit-Bull: Daily Goal Planner",
+          "developer": "AppForge Inc.",
+          "rating": 4.7,
+          "reviews": 8096,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/habit-bull-daily-goal-planner/id1041482672?uo=4",
+          "genre": "Productivity"
+        },
+        {
+          "name": "Habit Tracker: Simple&Powerful",
+          "developer": "GAL APP LTD",
+          "rating": 4.9,
+          "reviews": 38,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/habit-tracker-simple-powerful/id6745508692?uo=4",
+          "genre": "Lifestyle"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "5efccd29e733",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "AppIdeas",
+      "title": "Aw man, I wish there was an app for this?",
+      "body": "I’m a mobile app developer looking to start a new project, but\\",
+      "author": "Money_Percentage_884",
+      "url": "https://reddit.com/r/AppIdeas/comments/1rn4elb/aw_man_i_wish_there_was_an_app_for_this/",
+      "post_date": "2026-03-07",
+      "upvotes": 12,
+      "comments": 37,
+      "category": "Health",
+      "pain_summary": "wish there was an app for this?",
+      "ios_angle": "ADHD-friendly habit tracker with reward system",
+      "signal_strength": "weak",
+      "keywords": [
+        "ADHD planner",
+        "habit tracker"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "Habit Tracker",
+          "developer": "InnerGrow",
+          "rating": 4.8,
+          "reviews": 138480,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/habit-tracker/id1438388363?uo=4",
+          "genre": "Productivity"
+        },
+        {
+          "name": "Fabulous: Daily Habit Tracker",
+          "developer": "Fabulous",
+          "rating": 4.4,
+          "reviews": 87329,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/fabulous-daily-habit-tracker/id1203637303?uo=4",
+          "genre": "Health & Fitness"
+        },
+        {
+          "name": "Routine Planner, Habit Tracker",
+          "developer": "Routinery Corp.",
+          "rating": 4.7,
+          "reviews": 16415,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/routine-planner-habit-tracker/id1450486923?uo=4",
+          "genre": "Productivity"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "d64bb0a6f774",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "SomebodyMakeThis",
+      "title": "TestMe - app to test my understanding of something I recently watched",
+      "body": "So l've been tinkering with idea that started from a personal habit\\",
+      "author": "bazinga_97",
+      "url": "https://reddit.com/r/SomebodyMakeThis/comments/1qnftaj/testme_app_to_test_my_understanding_of_something/",
+      "post_date": "2026-01-26",
+      "upvotes": 10,
+      "comments": 22,
+      "category": "Education",
+      "pain_summary": "Need app to test understanding of watched content",
+      "ios_angle": "Interactive quiz app for recently viewed videos",
+      "signal_strength": "weak",
+      "keywords": [
+        "test comprehension",
+        "video review app",
+        "learning tracker"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "Teleprompter.com",
+          "developer": "Teleprompter LLC",
+          "rating": 4.8,
+          "reviews": 24333,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/teleprompter-com/id1420515755?uo=4",
+          "genre": "Productivity"
+        },
+        {
+          "name": "Canvas by Instructure",
+          "developer": "Instructure Inc.",
+          "rating": 4.7,
+          "reviews": 2769423,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/canvas-by-instructure/id480883488?uo=4",
+          "genre": "Education"
+        },
+        {
+          "name": "Noji - Flashcards & Vocabulary",
+          "developer": "Vedas Apps Ltd",
+          "rating": 4.6,
+          "reviews": 13309,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/noji-flashcards-vocabulary/id1573585542?uo=4",
+          "genre": "Education"
+        }
+      ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "63b90650b1fb",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "indiehackers",
+      "title": "How do you decide if your idea should be a mobile app or a web app?",
+      "body": "I''m building [catdoes.com](https://catdoes.com/) an **AI mobile",
+      "author": "dieg1986",
+      "url": "https://reddit.com/r/indiehackers/comments/1o0gsga/how_do_you_decide_if_your_idea_should_be_a_mobile/",
+      "post_date": "2025-10-07",
+      "upvotes": 10,
+      "comments": 24,
+      "category": "Career",
+      "pain_summary": "Decide if mobile app or web app is best for idea",
+      "ios_angle": "AI-powered career development platform with mobile app option",
+      "signal_strength": "weak",
+      "keywords": [
+        "career development",
+        "mobile app vs web app"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "Handshake Jobs & New Careers",
+          "developer": "Stryder Corp.",
+          "rating": 4.9,
+          "reviews": 119965,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/handshake-jobs-new-careers/id1220620171?uo=4",
+          "genre": "Business"
+        },
+        {
+          "name": "Alison: Online Education App",
+          "developer": "Alison (Capernaum Limited)",
+          "rating": 4.8,
+          "reviews": 10405,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/alison-online-education-app/id1558468968?uo=4",
+          "genre": "Education"
+        },
+        {
+          "name": "Expo Go",
+          "developer": "Nametag",
+          "rating": 4.8,
+          "reviews": 5098,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/expo-go/id982107779?uo=4",
+          "genre": "Developer Tools"
+        }
+      ],
+      "market_gap": "competitive"
+    },
+    {
+      "id": "858e8308c19c",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "shortcuts",
+      "title": "Need help to auto forward OTP messages",
+      "body": "This shortcut loops around and decides what actions to do next.\\",
+      "author": "International-Sail98",
+      "url": "https://reddit.com/r/shortcuts/comments/1rkeg1l/need_help_to_auto_forward_otp_messages/",
+      "post_date": "2026-03-04",
+      "upvotes": 10,
+      "comments": 18,
+      "category": "Automation",
+      "pain_summary": "Need help to auto forward OTP messages",
+      "ios_angle": "OTP message automation shortcut",
+      "signal_strength": "weak",
+      "keywords": [
+        "otp automation",
+        "message forwarding",
+        "shortcut automation"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "SMS Forwarder - Forward SMS",
+          "developer": "MOV DIGITAL LTD",
+          "rating": 4.5,
+          "reviews": 27,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/sms-forwarder-forward-sms/id6755627694?uo=4",
+          "genre": "Utilities"
+        },
+        {
+          "name": "Power Automate",
+          "developer": "Microsoft Corporation",
+          "rating": 4.7,
+          "reviews": 5170,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/power-automate/id1094928825?uo=4",
+          "genre": "Business"
+        }
+      ],
+      "market_gap": "competitive"
+    }
+  ],
+  "last_run": "2026-04-02T17:19:11.251396",
+  "total_runs": 3
+}
