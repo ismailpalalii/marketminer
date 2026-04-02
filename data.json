@@ -431,6 +431,59 @@
       "market_gap": "saturated"
     },
     {
+      "id": "297b44c37a44",
+      "found_date": "2026-04-03",
+      "platform": "Reddit",
+      "subreddit": "AppIdeas",
+      "title": "Just build what you need for yourself and see from there",
+      "body": "I''ve been deep in the world of AI companions for a while now,",
+      "author": "LocusStandi",
+      "url": "https://reddit.com/r/AppIdeas/comments/1rvddgf/just_build_what_you_need_for_yourself_and_see/",
+      "post_date": "2026-03-16",
+      "upvotes": 27,
+      "comments": 21,
+      "category": "Health",
+      "pain_summary": "Build AI companions for mental health and wellness",
+      "ios_angle": "ADHD-friendly daily planner with dopamine reward system",
+      "signal_strength": "strong",
+      "keywords": [
+        "AI companion",
+        "mental health app"
+      ],
+      "competitors": [
+        {
+          "name": "Talkspace: Virtual Therapy App",
+          "developer": "Groop Internet Platform inc.",
+          "rating": 4.8,
+          "reviews": 44133,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/talkspace-virtual-therapy-app/id661829386?uo=4",
+          "genre": "Health & Fitness"
+        },
+        {
+          "name": "AI Companion: Mental Health",
+          "developer": "NOVAHUB TECHNOLOGY COMPANY LIMITED",
+          "rating": 4.3,
+          "reviews": 101,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/ai-companion-mental-health/id1103551545?uo=4",
+          "genre": "Health & Fitness"
+        },
+        {
+          "name": "AI Friend: Virtual Assist",
+          "developer": "Pranas Semionova",
+          "rating": 4.5,
+          "reviews": 3236,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/ai-friend-virtual-assist/id6445799347?uo=4",
+          "genre": "Entertainment"
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "saturated"
+    },
+    {
       "id": "9d672f93c478",
       "found_date": "2026-04-02",
       "platform": "Reddit",
@@ -590,6 +643,59 @@
           "genre": "Productivity"
         }
       ],
+      "market_gap": "saturated"
+    },
+    {
+      "id": "74ec79870895",
+      "found_date": "2026-04-03",
+      "platform": "Reddit",
+      "subreddit": "AppIdeas",
+      "title": "Building the Best AI Sex Chat- Needing advice",
+      "body": "Me and my co-founder are both students and we’ve been bootstrapping",
+      "author": "ComfortableCredit864",
+      "url": "https://reddit.com/r/AppIdeas/comments/1s493s8/building_the_best_ai_sex_chat_needing_advice/",
+      "post_date": "2026-03-26",
+      "upvotes": 16,
+      "comments": 19,
+      "category": "Social",
+      "pain_summary": "Building AI sex chat app, need advice and resources",
+      "ios_angle": "AI-powered social chat platform for adults",
+      "signal_strength": "strong",
+      "keywords": [
+        "AI sex chat",
+        "social dating app"
+      ],
+      "competitors": [
+        {
+          "name": "CHAI: Social AI Platform- Chat",
+          "developer": "Chai Research Corp.",
+          "rating": 4.5,
+          "reviews": 225502,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/chai-social-ai-platform-chat/id1544750895?uo=4",
+          "genre": "Entertainment"
+        },
+        {
+          "name": "Heat. Ai Girlfriend Chat Girls",
+          "developer": "MACROMATRIX (PRIVATE) LIMITED",
+          "rating": 4.6,
+          "reviews": 6486,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/heat-ai-girlfriend-chat-girls/id6471625886?uo=4",
+          "genre": "Entertainment"
+        },
+        {
+          "name": "ChaChat:Chat with AI Character",
+          "developer": "Mynalabs.ai",
+          "rating": 4.4,
+          "reviews": 8123,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/chachat-chat-with-ai-character/id6444773124?uo=4",
+          "genre": "Entertainment"
+        }
+      ],
+      "status": "new",
+      "notes": "",
       "market_gap": "saturated"
     },
     {
@@ -2448,6 +2554,6 @@
       "market_gap": "competitive"
     }
   ],
-  "last_run": "2026-04-02T17:19:11.251396",
-  "total_runs": 3
+  "last_run": "2026-04-03T00:39:13.578604",
+  "total_runs": 4
 }
