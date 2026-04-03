@@ -1,6 +1,60 @@
 {
   "signals": [
     {
+      "id": "c3026fdcfd9f",
+      "found_date": "2026-04-03",
+      "platform": "Reddit",
+      "subreddit": "ADHD",
+      "title": "Random ADHD hacks that finally worked after years of failing at \"normal",
+      "body": "So, like a lot of people with ADHD I have auditory processing disorder.",
+      "author": "ConditionUsual3806",
+      "url": "https://reddit.com/r/ADHD/comments/1jyghep/random_adhd_hacks_that_finally_worked_after_years/",
+      "post_date": "2025-04-13",
+      "upvotes": 3270,
+      "comments": 313,
+      "category": "Habits",
+      "pain_summary": "ADHD individuals struggle with auditory processing disorder",
+      "ios_angle": "ADHD-friendly daily planner with dopamine reward system",
+      "signal_strength": "strong",
+      "keywords": [
+        "ADHD planner",
+        "focus timer",
+        "task manager ADHD"
+      ],
+      "competitors": [
+        {
+          "name": "Clarify: ADHD Organizer, Timer",
+          "developer": "Fabulous",
+          "rating": 4.3,
+          "reviews": 2632,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/clarify-adhd-organizer-timer/id1670958524?uo=4",
+          "genre": "Health & Fitness"
+        },
+        {
+          "name": "Focus Keeper - Pomodoro Timer",
+          "developer": "PIXO Incorporation",
+          "rating": 4.8,
+          "reviews": 31251,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/focus-keeper-pomodoro-timer/id867374917?uo=4",
+          "genre": "Productivity"
+        },
+        {
+          "name": "ADHD Organizer, Daily Planner",
+          "developer": "Nota Systems, LLC",
+          "rating": 4.8,
+          "reviews": 1163,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/adhd-organizer-daily-planner/id1494584871?uo=4",
+          "genre": "Productivity"
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "saturated"
+    },
+    {
       "id": "fc9ce459b664",
       "found_date": "2026-04-03",
       "platform": "Reddit",
@@ -160,6 +214,112 @@
       "market_gap": "saturated"
     },
     {
+      "id": "87413fc915a3",
+      "found_date": "2026-04-03",
+      "platform": "Reddit",
+      "subreddit": "homelab",
+      "title": "Finally \"finished\" my minilab",
+      "body": "I'd like to implement Authelia (or something similar) for my homelab.",
+      "author": "Myrodis",
+      "url": "https://reddit.com/r/homelab/comments/1n5vesf/finally_finished_my_minilab/",
+      "post_date": "2025-09-01",
+      "upvotes": 1705,
+      "comments": 117,
+      "category": "Automation",
+      "pain_summary": "Implementing authentication for a home lab is challenging",
+      "ios_angle": "Authelia implementation for homelab",
+      "signal_strength": "strong",
+      "keywords": [
+        "homelab security",
+        "authelia setup"
+      ],
+      "competitors": [
+        {
+          "name": "Alula Security",
+          "developer": "Alula Holdings, LLC",
+          "rating": 4.8,
+          "reviews": 25349,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/alula-security/id1356152180?uo=4",
+          "genre": "Lifestyle"
+        },
+        {
+          "name": "Arlo Secure: Home Security",
+          "developer": "Arlo Technologies Inc.",
+          "rating": 4.0,
+          "reviews": 298454,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/arlo-secure-home-security/id1459289784?uo=4",
+          "genre": "Lifestyle"
+        },
+        {
+          "name": "SimpliSafe Home Security App",
+          "developer": "SimpliSafe Inc",
+          "rating": 4.8,
+          "reviews": 323290,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/simplisafe-home-security-app/id555798051?uo=4",
+          "genre": "Lifestyle"
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "saturated"
+    },
+    {
+      "id": "51e0f4c2796d",
+      "found_date": "2026-04-03",
+      "platform": "Reddit",
+      "subreddit": "smallbusiness",
+      "title": "I Took Over a Commercial Gym and it's Been a Nightmare.",
+      "body": "I own a small agency company. Over the past year, we''ve made automation",
+      "author": "Candid-Primary2891",
+      "url": "https://reddit.com/r/smallbusiness/comments/1lfs3wn/i_took_over_a_commercial_gym_and_its_been_a/",
+      "post_date": "2025-06-20",
+      "upvotes": 1338,
+      "comments": 292,
+      "category": "Career",
+      "pain_summary": "Small business owners struggle with automation and productivity",
+      "ios_angle": "Automation app for small businesses",
+      "signal_strength": "strong",
+      "keywords": [
+        "small business automation",
+        "productivity app"
+      ],
+      "competitors": [
+        {
+          "name": "Power Automate",
+          "developer": "Microsoft Corporation",
+          "rating": 4.7,
+          "reviews": 5170,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/power-automate/id1094928825?uo=4",
+          "genre": "Business"
+        },
+        {
+          "name": "Revolut Business",
+          "developer": "Revolut Ltd",
+          "rating": 4.9,
+          "reviews": 2556,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/revolut-business/id1436969262?uo=4",
+          "genre": "Finance"
+        },
+        {
+          "name": "Vision by Mobile Insight™",
+          "developer": "Mobile Insight, LLC.",
+          "rating": 4.6,
+          "reviews": 1209,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/vision-by-mobile-insight/id414738161?uo=4",
+          "genre": "Business"
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "opportunity"
+    },
+    {
       "id": "12581aad2f5a",
       "found_date": "2026-04-03",
       "platform": "Reddit",
@@ -214,6 +374,222 @@
       "market_gap": "saturated"
     },
     {
+      "id": "c3fcc5c12d62",
+      "found_date": "2026-04-03",
+      "platform": "Reddit",
+      "subreddit": "ADHD",
+      "title": "This trick to drink water seems to have worked on me (so far)",
+      "body": "Is it just me or anyone else face the situation where finding new",
+      "author": "___rookie___",
+      "url": "https://reddit.com/r/ADHD/comments/1mmv8h4/this_trick_to_drink_water_seems_to_have_worked_on/",
+      "post_date": "2025-08-11",
+      "upvotes": 851,
+      "comments": 129,
+      "category": "Health",
+      "pain_summary": "ADHDers struggle to drink water",
+      "ios_angle": "Hydration tracking app for ADHD",
+      "signal_strength": "strong",
+      "keywords": [
+        "ADHD hydration",
+        "water reminder",
+        "health app"
+      ],
+      "competitors": [
+        {
+          "name": "My Water: Daily Drink Tracker",
+          "developer": "My Water Drink Tracker Oy",
+          "rating": 4.6,
+          "reviews": 23737,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/my-water-daily-drink-tracker/id964748094?uo=4",
+          "genre": "Health & Fitness"
+        },
+        {
+          "name": "Water Tracker by WaterMinder®",
+          "developer": "Funn Media, LLC",
+          "rating": 4.7,
+          "reviews": 32986,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/water-tracker-by-waterminder/id653031147?uo=4",
+          "genre": "Health & Fitness"
+        },
+        {
+          "name": "Drink water: Drinking reminder",
+          "developer": "TOH CO.,LTD",
+          "rating": 4.6,
+          "reviews": 22214,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/drink-water-drinking-reminder/id1478980974?uo=4",
+          "genre": "Health & Fitness"
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "saturated"
+    },
+    {
+      "id": "ff710415b05a",
+      "found_date": "2026-04-03",
+      "platform": "Reddit",
+      "subreddit": "Teachers",
+      "title": "Do you feel kids don't know how to use computers anymore?",
+      "body": "Today I caught two HS freshman cheating on their math quiz. No\\",
+      "author": "iraya92",
+      "url": "https://reddit.com/r/Teachers/comments/1kqhfq0/do_you_feel_kids_dont_know_how_to_use_computers/",
+      "post_date": "2025-05-19",
+      "upvotes": 699,
+      "comments": 329,
+      "category": "Productivity",
+      "pain_summary": "Kids don't know how to use computers anymore",
+      "ios_angle": "Digital literacy app for kids",
+      "signal_strength": "strong",
+      "keywords": [
+        "digital literacy",
+        "kid-friendly computer",
+        "tech education"
+      ],
+      "competitors": [
+        {
+          "name": "Kodable Basics",
+          "developer": "SurfScore, Inc",
+          "rating": 4.7,
+          "reviews": 20791,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/kodable-basics/id577673067?uo=4",
+          "genre": "Education"
+        },
+        {
+          "name": "codeSpark - Coding for Kids",
+          "developer": "Homer",
+          "rating": 4.6,
+          "reviews": 40318,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/codespark-coding-for-kids/id923441570?uo=4",
+          "genre": "Education"
+        },
+        {
+          "name": "Hooked on Phonics Learning",
+          "developer": "Hooked on Phonics",
+          "rating": 4.5,
+          "reviews": 15961,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/hooked-on-phonics-learning/id588868907?uo=4",
+          "genre": "Education"
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "saturated"
+    },
+    {
+      "id": "22e427cf484f",
+      "found_date": "2026-04-03",
+      "platform": "Reddit",
+      "subreddit": "homelab",
+      "title": "My first nerdy Apple Watch app: Uptime Mate - Monitor your servers",
+      "body": "",
+      "author": "",
+      "url": "",
+      "post_date": "",
+      "upvotes": 615,
+      "comments": 0,
+      "category": "Utility",
+      "pain_summary": "Apple Watch app for server monitoring",
+      "ios_angle": "Server monitoring app for Apple Watch",
+      "signal_strength": "strong",
+      "keywords": [
+        "server monitor",
+        "apple watch app",
+        "uptime tracking"
+      ],
+      "competitors": [
+        {
+          "name": "PRTG - Monitoring",
+          "developer": "Paessler AG",
+          "rating": 4.8,
+          "reviews": 1945,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/prtg-monitoring/id326306472?uo=4",
+          "genre": "Productivity"
+        },
+        {
+          "name": "Welltory: Health, Heart Rate",
+          "developer": "Welltory inc",
+          "rating": 4.7,
+          "reviews": 126356,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/welltory-health-heart-rate/id1074367771?uo=4",
+          "genre": "Health & Fitness"
+        },
+        {
+          "name": "StressWatch: AI Stress Monitor",
+          "developer": "One Hundred Bad Ideas Limited",
+          "rating": 4.7,
+          "reviews": 17046,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/stresswatch-ai-stress-monitor/id6444737095?uo=4",
+          "genre": "Health & Fitness"
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "saturated"
+    },
+    {
+      "id": "bb7f8c115c4b",
+      "found_date": "2026-04-03",
+      "platform": "Reddit",
+      "subreddit": "Teachers",
+      "title": "Student found my dating apps",
+      "body": "In the math world we’ve been dealing with students using apps to\\",
+      "author": "ArturGLey",
+      "url": "https://reddit.com/r/Teachers/comments/1plamgy/student_found_my_dating_apps/",
+      "post_date": "2025-12-13",
+      "upvotes": 435,
+      "comments": 112,
+      "category": "Parenting",
+      "pain_summary": "Students using dating apps in class",
+      "ios_angle": "Classroom monitoring app to detect and block distracting apps",
+      "signal_strength": "strong",
+      "keywords": [
+        "classroom monitoring",
+        "distracting app blocker",
+        "parental control"
+      ],
+      "competitors": [
+        {
+          "name": "Parental Control App - OurPact",
+          "developer": "Eturi Corp.",
+          "rating": 4.4,
+          "reviews": 36742,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/parental-control-app-ourpact/id954029412?uo=4",
+          "genre": "Lifestyle"
+        },
+        {
+          "name": "Refocus: Block Apps & Websites",
+          "developer": "Labi, LLC",
+          "rating": 4.8,
+          "reviews": 8926,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/refocus-block-apps-websites/id1645639057?uo=4",
+          "genre": "Productivity"
+        },
+        {
+          "name": "AppBlock: Block Apps & Website",
+          "developer": "MobileSoft s.r.o.",
+          "rating": 4.6,
+          "reviews": 5588,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/appblock-block-apps-website/id1515753232?uo=4",
+          "genre": "Productivity"
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "competitive"
+    },
+    {
       "id": "43ab952840ac",
       "found_date": "2026-04-03",
       "platform": "Reddit",
@@ -258,6 +634,60 @@
           "developer": "tiimo",
           "rating": 4.6,
           "reviews": 15260,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/tiimo-to-do-list-ai-planner/id1480220328?uo=4",
+          "genre": "Productivity"
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "saturated"
+    },
+    {
+      "id": "ada4485354f0",
+      "found_date": "2026-04-03",
+      "platform": "Reddit",
+      "subreddit": "ADHD",
+      "title": "Unpopular ADHD opinion: I hate ramps",
+      "body": "Ok so if put in your desired location into Google maps and press",
+      "author": "yukonwanderer",
+      "url": "https://reddit.com/r/ADHD/comments/1q5kfcj/unpopular_adhd_opinion_i_hate_ramps/",
+      "post_date": "2026-01-06",
+      "upvotes": 355,
+      "comments": 199,
+      "category": "MentalHealth",
+      "pain_summary": "ADHD individual's frustration with accessibility ramps",
+      "ios_angle": "Accessible route planner app with personalized feedback and navigation assistance",
+      "signal_strength": "strong",
+      "keywords": [
+        "accessible route planner",
+        "adhd-friendly navigation",
+        "personalized feedback"
+      ],
+      "competitors": [
+        {
+          "name": "Route4Me Route Planner",
+          "developer": "Route4Me Inc",
+          "rating": 4.6,
+          "reviews": 11891,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/route4me-route-planner/id349853799?uo=4",
+          "genre": "Navigation"
+        },
+        {
+          "name": "RoadWarrior Route Planner",
+          "developer": "MapQuest Holdings LLC",
+          "rating": 4.7,
+          "reviews": 7143,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/roadwarrior-route-planner/id959621658?uo=4",
+          "genre": "Navigation"
+        },
+        {
+          "name": "Tiimo: To-Do List & AI Planner",
+          "developer": "tiimo",
+          "rating": 4.6,
+          "reviews": 15270,
           "price": "Free",
           "url": "https://apps.apple.com/us/app/tiimo-to-do-list-ai-planner/id1480220328?uo=4",
           "genre": "Productivity"
@@ -1776,6 +2206,59 @@
       "market_gap": "opportunity"
     },
     {
+      "id": "b071f093347a",
+      "found_date": "2026-04-03",
+      "platform": "Reddit",
+      "subreddit": "Twitch",
+      "title": "Since installing today's update for the iOS app, my iPhone's home button",
+      "body": "Is there a reliable phone to webcam app  in 2025 or a bluetooth",
+      "author": "darklordoftech",
+      "url": "https://reddit.com/r/Twitch/comments/1ni6fdz/since_installing_todays_update_for_the_ios_app_my/",
+      "post_date": "2025-09-16",
+      "upvotes": 12,
+      "comments": 11,
+      "category": "Fitness",
+      "pain_summary": "iOS app needs reliable phone to webcam functionality",
+      "ios_angle": "phone-to-webcam streaming app",
+      "signal_strength": "strong",
+      "keywords": [
+        "phone to webcam app",
+        "bluetooth webcam app"
+      ],
+      "competitors": [
+        {
+          "name": "iVCam Webcam",
+          "developer": "俊红 柴",
+          "rating": 4.3,
+          "reviews": 14563,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/ivcam-webcam/id1164464478?uo=4",
+          "genre": "Utilities"
+        },
+        {
+          "name": "DroidCam Webcam & OBS Camera",
+          "developer": "DEV47APPS",
+          "rating": 4.6,
+          "reviews": 2089,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/droidcam-webcam-obs-camera/id1510258102?uo=4",
+          "genre": "Utilities"
+        },
+        {
+          "name": "Home Security Camera App",
+          "developer": "SpeedBoot Inc.",
+          "rating": 4.5,
+          "reviews": 2917,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/home-security-camera-app/id1540687753?uo=4",
+          "genre": "Utilities"
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "opportunity"
+    },
+    {
       "id": "40f1988d1211",
       "found_date": "2026-04-02",
       "platform": "Reddit",
@@ -3118,6 +3601,243 @@
       "market_gap": "competitive"
     },
     {
+      "id": "a4350dfc3cf8",
+      "found_date": "2026-04-03",
+      "platform": "Reddit",
+      "subreddit": "DataHoarder",
+      "title": "Question for the serious DHer's with 70TB of data+ How do you organize",
+      "body": "Ahoy me hoardies,",
+      "author": "johnny_ringo",
+      "url": "https://reddit.com/r/DataHoarder/comments/1jqwmm5/question_for_the_serious_dhers_with_70tb_of_data/",
+      "post_date": "2025-04-04",
+      "upvotes": 10,
+      "comments": 26,
+      "category": "Uncategorized",
+      "pain_summary": "",
+      "ios_angle": "",
+      "signal_strength": "medium",
+      "keywords": [],
+      "competitors": [],
+      "status": "new",
+      "notes": ""
+    },
+    {
+      "id": "5a10dd4286ec",
+      "found_date": "2026-04-03",
+      "platform": "Reddit",
+      "subreddit": "Teachers",
+      "title": "I’m so confused why my son’s teacher won’t talk to me?",
+      "body": "I'll start by saying it isn't *all* bad, but I find it is a little\\",
+      "author": "Cherry_WiIIow",
+      "url": "https://reddit.com/r/Teachers/comments/1qyig48/im_so_confused_why_my_sons_teacher_wont_talk_to_me/",
+      "post_date": "2026-02-07",
+      "upvotes": 1249,
+      "comments": 343,
+      "category": "Parenting",
+      "pain_summary": "Son's teacher won't talk to me",
+      "ios_angle": "Teacher-student communication app for parents",
+      "signal_strength": "weak",
+      "keywords": [
+        "teacher communication",
+        "parental involvement",
+        "school app"
+      ],
+      "competitors": [
+        {
+          "name": "FAMILIES | TalkingPoints",
+          "developer": "TalkingPoints Corp",
+          "rating": 4.8,
+          "reviews": 91535,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/families-talkingpoints/id1320244591?uo=4",
+          "genre": "Education"
+        },
+        {
+          "name": "SchoolStatus Connect",
+          "developer": "SchoolStatus",
+          "rating": 4.6,
+          "reviews": 1733,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/schoolstatus-connect/id1157953056?uo=4",
+          "genre": "Education"
+        },
+        {
+          "name": "ParentSquare",
+          "developer": "ParentSquare",
+          "rating": 4.6,
+          "reviews": 73938,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/parentsquare/id908126679?uo=4",
+          "genre": "Education"
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "competitive"
+    },
+    {
+      "id": "1c8f0baee8b3",
+      "found_date": "2026-04-03",
+      "platform": "Reddit",
+      "subreddit": "DataHoarder",
+      "title": "50,000+ tracks, ~51% FLAC, self-hosted radio station broadcasting 24/7",
+      "body": "Hi everyone. As someone who have a not so small media library myself,\\",
+      "author": "avatar_one",
+      "url": "https://reddit.com/r/DataHoarder/comments/1r2hyxe/50000_tracks_51_flac_selfhosted_radio_station/",
+      "post_date": "2026-02-12",
+      "upvotes": 485,
+      "comments": 112,
+      "category": "Lifestyle",
+      "pain_summary": "Managing large media library",
+      "ios_angle": "Media library organizer with auto-tagging and playback features",
+      "signal_strength": "weak",
+      "keywords": [
+        "media library management",
+        "music player",
+        "tagging system"
+      ],
+      "competitors": [
+        {
+          "name": "Evermusic: Simple Music Player",
+          "developer": "EVERAPPZ SL",
+          "rating": 4.6,
+          "reviews": 18458,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/evermusic-simple-music-player/id885367198?uo=4",
+          "genre": "Music"
+        },
+        {
+          "name": "VidHub -Video Library & Player",
+          "developer": "Nanjing Oumi Software Development Co., Ltd.",
+          "rating": 4.6,
+          "reviews": 3060,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/vidhub-video-library-player/id1659622164?uo=4",
+          "genre": "Entertainment"
+        },
+        {
+          "name": "Fileplay - Documents Player",
+          "developer": "Kristian Sepp",
+          "rating": 4.6,
+          "reviews": 4225,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/fileplay-documents-player/id1558723050?uo=4",
+          "genre": "Entertainment"
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "saturated"
+    },
+    {
+      "id": "4fd0f1e37d84",
+      "found_date": "2026-04-03",
+      "platform": "Reddit",
+      "subreddit": "shortcuts",
+      "title": "What Automations or Shortcuts Do You Actually Use Every Day?",
+      "body": "I have a device on iOS 15.4 with no passcode on it, is it possible",
+      "author": "Maxxximeeee",
+      "url": "https://reddit.com/r/shortcuts/comments/1pmc0y0/what_automations_or_shortcuts_do_you_actually_use/",
+      "post_date": "2025-12-14",
+      "upvotes": 371,
+      "comments": 501,
+      "category": "Automation",
+      "pain_summary": "iOS 15.4 security concern",
+      "ios_angle": "Passcode reset automation for iOS devices",
+      "signal_strength": "weak",
+      "keywords": [
+        "passcode reset",
+        "ios security",
+        "automation"
+      ],
+      "competitors": [
+        {
+          "name": "TotalAV",
+          "developer": "Total Security Limited",
+          "rating": 4.6,
+          "reviews": 70551,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/totalav/id1130411958?uo=4",
+          "genre": "Utilities"
+        },
+        {
+          "name": "NordPass: Password Manager",
+          "developer": "Nordvpn S.A.",
+          "rating": 4.7,
+          "reviews": 11765,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/nordpass-password-manager/id1486322860?uo=4",
+          "genre": "Productivity"
+        },
+        {
+          "name": "Authenticator App ™",
+          "developer": "Codenhagen.IO ApS",
+          "rating": 4.4,
+          "reviews": 22910,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/authenticator-app/id6443508147?uo=4",
+          "genre": "Utilities"
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "competitive"
+    },
+    {
+      "id": "6659113e8b79",
+      "found_date": "2026-04-03",
+      "platform": "Reddit",
+      "subreddit": "TwoXChromosomes",
+      "title": "Are you tracking your period with an app? This article talks about",
+      "body": "I asked him to wear a condom and he got up and went to the bathroom...and\\",
+      "author": "Effective_Couple_729",
+      "url": "https://reddit.com/r/TwoXChromosomes/comments/1nbk0t3/are_you_tracking_your_period_with_an_app_this/",
+      "post_date": "2025-09-08",
+      "upvotes": 305,
+      "comments": 15,
+      "category": "Health",
+      "pain_summary": "Tracking period with an app",
+      "ios_angle": "Period tracking app with fertility insights and reminders",
+      "signal_strength": "weak",
+      "keywords": [
+        "period tracker",
+        "fertility insights",
+        "menstrual cycle tracking"
+      ],
+      "competitors": [
+        {
+          "name": "Natural Cycles Fertility App",
+          "developer": "NaturalCycles Nordic AB",
+          "rating": 4.8,
+          "reviews": 28707,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/natural-cycles-fertility-app/id765535549?uo=4",
+          "genre": "Health & Fitness"
+        },
+        {
+          "name": "Premom Ovulation Tracker & BBT",
+          "developer": "Easy Healthcare Corporation",
+          "rating": 4.8,
+          "reviews": 53500,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/premom-ovulation-tracker-bbt/id1279295922?uo=4",
+          "genre": "Health & Fitness"
+        },
+        {
+          "name": "Period Tracker ‎",
+          "developer": "Sevenlogics, Inc.",
+          "rating": 4.6,
+          "reviews": 8230,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/period-tracker/id720796332?uo=4",
+          "genre": "Health & Fitness"
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "saturated"
+    },
+    {
       "id": "c1af9dec303f",
       "found_date": "2026-04-03",
       "platform": "Reddit",
@@ -3970,6 +4690,60 @@
       "market_gap": "competitive"
     },
     {
+      "id": "d1db7f79a8ab",
+      "found_date": "2026-04-03",
+      "platform": "Reddit",
+      "subreddit": "AskEngineers",
+      "title": "How do you organise your know-how?",
+      "body": "Edit- [update](https://www.reddit.com/r/AskEngineers/comments/jykv09/update_on_my_last_post/?utm_source=share&utm_medium=ios_app&utm_name=iossmf)\\",
+      "author": "CycleUncleGreg",
+      "url": "https://reddit.com/r/AskEngineers/comments/1oxnt66/how_do_you_organise_your_knowhow/",
+      "post_date": "2025-11-15",
+      "upvotes": 21,
+      "comments": 27,
+      "category": "Education",
+      "pain_summary": "Organizing know-how and expertise",
+      "ios_angle": "Digital knowledge management app with note-taking and organization features",
+      "signal_strength": "weak",
+      "keywords": [
+        "digital note-taking",
+        "knowledge management",
+        "expertise tracking"
+      ],
+      "competitors": [
+        {
+          "name": "Evernote - Notes Organizer",
+          "developer": "Evernote Corporation",
+          "rating": 4.4,
+          "reviews": 74257,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/evernote-notes-organizer/id281796108?uo=4",
+          "genre": "Productivity"
+        },
+        {
+          "name": "Smart AI Note Taker: CraftNote",
+          "developer": "Joyolabs Dijital Hizmetler Anonim Sirketi",
+          "rating": 4.7,
+          "reviews": 2668,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/smart-ai-note-taker-craftnote/id6741078963?uo=4",
+          "genre": "Productivity"
+        },
+        {
+          "name": "Noteshelf 3: AI Digital Notes",
+          "developer": "Fluid Touch Pte. Ltd.",
+          "rating": 4.6,
+          "reviews": 4736,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/noteshelf-3-ai-digital-notes/id6458735203?uo=4",
+          "genre": "Productivity"
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "competitive"
+    },
+    {
       "id": "de2f3abd45d5",
       "found_date": "2026-04-02",
       "platform": "Reddit",
@@ -4069,6 +4843,60 @@
       "market_gap": "saturated"
     },
     {
+      "id": "a5fa82db9105",
+      "found_date": "2026-04-03",
+      "platform": "Reddit",
+      "subreddit": "indiehackers",
+      "title": "What's the easiest and most convenient way to build a mobile app for",
+      "body": "The app studio is called [Monkeytaps](https://apps.apple.com/mn/developer/monkey-taps/id1450092715)",
+      "author": "Odeh13",
+      "url": "https://reddit.com/r/indiehackers/comments/1r93qk6/whats_the_easiest_and_most_convenient_way_to/",
+      "post_date": "2026-02-19",
+      "upvotes": 15,
+      "comments": 60,
+      "category": "Utility",
+      "pain_summary": "Easiest way to build a mobile app",
+      "ios_angle": "App development platform with drag-and-drop features and templates",
+      "signal_strength": "weak",
+      "keywords": [
+        "app development platform",
+        "drag-and-drop builder",
+        "mobile app creation"
+      ],
+      "competitors": [
+        {
+          "name": "Universe Website Builder",
+          "developer": "Universe Exploration Company",
+          "rating": 4.5,
+          "reviews": 9773,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/universe-website-builder/id1211437633?uo=4",
+          "genre": "Productivity"
+        },
+        {
+          "name": "Replit: Vibe Code Apps",
+          "developer": "Replit",
+          "rating": 4.7,
+          "reviews": 14495,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/replit-vibe-code-apps/id1614022293?uo=4",
+          "genre": "Developer Tools"
+        },
+        {
+          "name": "App Studio: Create an app",
+          "developer": "Apps Ltd LLC",
+          "rating": 4.4,
+          "reviews": 2242,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/app-studio-create-an-app/id1326594410?uo=4",
+          "genre": "Business"
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "competitive"
+    },
+    {
       "id": "342e7f7aa814",
       "found_date": "2026-04-02",
       "platform": "Reddit",
@@ -4165,6 +4993,60 @@
         }
       ],
       "market_gap": "saturated"
+    },
+    {
+      "id": "ac57333e4a6d",
+      "found_date": "2026-04-03",
+      "platform": "Reddit",
+      "subreddit": "smallbusiness",
+      "title": "Is there any web to print software free or very cheap for a startup?",
+      "body": "Edit: this post got way more comments and attention than I ever\\",
+      "author": "Main_Lengthiness_606",
+      "url": "https://reddit.com/r/smallbusiness/comments/1r7g6j7/is_there_any_web_to_print_software_free_or_very/",
+      "post_date": "2026-02-17",
+      "upvotes": 13,
+      "comments": 12,
+      "category": "Utility",
+      "pain_summary": "Web to print software for startup",
+      "ios_angle": "Digital printing platform with design and ordering features",
+      "signal_strength": "weak",
+      "keywords": [
+        "digital printing",
+        "web-to-print software",
+        "startup resources"
+      ],
+      "competitors": [
+        {
+          "name": "Creality Cloud - 3D Printing",
+          "developer": "CREALITY 3D (HK) TECHNOLOGY LIMITED",
+          "rating": 4.6,
+          "reviews": 6315,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/creality-cloud-3d-printing/id1577663728?uo=4",
+          "genre": "Utilities"
+        },
+        {
+          "name": "Print n Share",
+          "developer": "EuroSmartz Ltd",
+          "rating": 4.7,
+          "reviews": 431,
+          "price": "$6.99",
+          "url": "https://apps.apple.com/us/app/print-n-share/id301656026?uo=4",
+          "genre": "Productivity"
+        },
+        {
+          "name": "Smart Printer App & Scanner",
+          "developer": "On Hand Apps - FZCO",
+          "rating": 4.5,
+          "reviews": 81310,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/smart-printer-app-scanner/id1517103958?uo=4",
+          "genre": "Business"
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "competitive"
     },
     {
       "id": "5efccd29e733",
@@ -4504,6 +5386,6 @@
       "market_gap": "saturated"
     }
   ],
-  "last_run": "2026-04-03T01:34:00.071192",
-  "total_runs": 7
+  "last_run": "2026-04-03T04:26:17.467973",
+  "total_runs": 8
 }
