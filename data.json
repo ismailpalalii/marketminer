@@ -55,6 +55,60 @@
       "market_gap": "saturated"
     },
     {
+      "id": "41f04112c2f2",
+      "found_date": "2026-04-03",
+      "platform": "Reddit",
+      "subreddit": "ADHD",
+      "title": "How to get off my lazy ass and actually do stuff",
+      "body": "So there was that awesome [Reddit thread](https://www.reddit.com/r/ADHD/comments/ifsln9/lets_share_lifechanging_adhd_tips_that_weve/?sort=top)\\",
+      "author": "According-Crow-7342",
+      "url": "https://reddit.com/r/ADHD/comments/1pi5oiz/how_to_get_off_my_lazy_ass_and_actually_do_stuff/",
+      "post_date": "2025-12-09",
+      "upvotes": 2981,
+      "comments": 90,
+      "category": "Habits",
+      "pain_summary": "struggle to stay motivated and productive due to ADHD",
+      "ios_angle": "ADHD-friendly daily planner with dopamine reward system",
+      "signal_strength": "strong",
+      "keywords": [
+        "ADHD planner",
+        "focus timer",
+        "task manager ADHD"
+      ],
+      "competitors": [
+        {
+          "name": "Clarify: ADHD Organizer, Timer",
+          "developer": "Fabulous",
+          "rating": 4.3,
+          "reviews": 2632,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/clarify-adhd-organizer-timer/id1670958524?uo=4",
+          "genre": "Health & Fitness"
+        },
+        {
+          "name": "Focus Keeper - Pomodoro Timer",
+          "developer": "PIXO Incorporation",
+          "rating": 4.8,
+          "reviews": 31251,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/focus-keeper-pomodoro-timer/id867374917?uo=4",
+          "genre": "Productivity"
+        },
+        {
+          "name": "ADHD Organizer, Daily Planner",
+          "developer": "Nota Systems, LLC",
+          "rating": 4.8,
+          "reviews": 1163,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/adhd-organizer-daily-planner/id1494584871?uo=4",
+          "genre": "Productivity"
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "saturated"
+    },
+    {
       "id": "fc9ce459b664",
       "found_date": "2026-04-03",
       "platform": "Reddit",
@@ -420,6 +474,114 @@
           "reviews": 22214,
           "price": "Free",
           "url": "https://apps.apple.com/us/app/drink-water-drinking-reminder/id1478980974?uo=4",
+          "genre": "Health & Fitness"
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "saturated"
+    },
+    {
+      "id": "19c4ced56e24",
+      "found_date": "2026-04-03",
+      "platform": "Reddit",
+      "subreddit": "Teachers",
+      "title": "iReady holding talented students hostage",
+      "body": "I have been teaching at the same school for six years. I did my",
+      "author": "Funny_Ad3678",
+      "url": "https://reddit.com/r/Teachers/comments/1s2gc1d/iready_holding_talented_students_hostage/",
+      "post_date": "2026-03-24",
+      "upvotes": 837,
+      "comments": 188,
+      "category": "Education",
+      "pain_summary": "Students being held back by iReady software",
+      "ios_angle": "ADHD-friendly learning platform with adaptive assessments",
+      "signal_strength": "strong",
+      "keywords": [
+        "iReady alternative",
+        "adaptive learning platform",
+        "education app"
+      ],
+      "competitors": [
+        {
+          "name": "360Learning",
+          "developer": "360Learning",
+          "rating": 4.9,
+          "reviews": 6162,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/360learning/id1080374585?uo=4",
+          "genre": "Education"
+        },
+        {
+          "name": "MyU - Interactive Learning",
+          "developer": "Fikra Design & Management",
+          "rating": 4.6,
+          "reviews": 22359,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/myu-interactive-learning/id740372863?uo=4",
+          "genre": "Education"
+        },
+        {
+          "name": "Campus - AI Learning Companion",
+          "developer": "Sizzle AI, Inc.",
+          "rating": 4.8,
+          "reviews": 2439,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/campus-ai-learning-companion/id6449232300?uo=4",
+          "genre": "Education"
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "saturated"
+    },
+    {
+      "id": "fdeaf13e1e1e",
+      "found_date": "2026-04-03",
+      "platform": "Reddit",
+      "subreddit": "TwoXChromosomes",
+      "title": "Flo Health was fined by the FTC for sharing users' pregnancy data with",
+      "body": "\\nI remember reading shortly after Roe was overturned that we shouldn’t\\",
+      "author": "AbsolutS0",
+      "url": "https://reddit.com/r/TwoXChromosomes/comments/1rz1n20/flo_health_was_fined_by_the_ftc_for_sharing_users/",
+      "post_date": "2026-03-20",
+      "upvotes": 791,
+      "comments": 55,
+      "category": "MentalHealth",
+      "pain_summary": "Flo Health shared pregnancy data without consent",
+      "ios_angle": "Period tracker with end-to-end encryption and user control over data sharing",
+      "signal_strength": "strong",
+      "keywords": [
+        "period tracker",
+        "fertility app",
+        "data protection"
+      ],
+      "competitors": [
+        {
+          "name": "Trying to conceive Tracker app",
+          "developer": "Maksim Gudzik",
+          "rating": 4.5,
+          "reviews": 1590,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/trying-to-conceive-tracker-app/id1468098256?uo=4",
+          "genre": "Medical"
+        },
+        {
+          "name": "Clue Period & Cycle Tracker",
+          "developer": "BioWink GmbH",
+          "rating": 4.8,
+          "reviews": 391540,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/clue-period-cycle-tracker/id657189652?uo=4",
+          "genre": "Health & Fitness"
+        },
+        {
+          "name": "Period Tracker Period Calendar",
+          "developer": "ABISHKKING LIMITED.",
+          "rating": 4.9,
+          "reviews": 166929,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/period-tracker-period-calendar/id896501514?uo=4",
           "genre": "Health & Fitness"
         }
       ],
@@ -2439,6 +2601,60 @@
       "status": "new",
       "notes": "",
       "market_gap": "unknown"
+    },
+    {
+      "id": "d10cdaebcd8c",
+      "found_date": "2026-04-03",
+      "platform": "Reddit",
+      "subreddit": "homelab",
+      "title": "Got some 10/100 switches: what to do with them?",
+      "body": "",
+      "author": "Exentio",
+      "url": "https://reddit.com/r/homelab/comments/1ohg62l/got_some_10100_switches_what_to_do_with_them/",
+      "post_date": "2025-10-27",
+      "upvotes": 632,
+      "comments": 246,
+      "category": "Automation",
+      "pain_summary": "Unused 10/100 switches need a plan for use",
+      "ios_angle": "Network monitoring app with switch management features",
+      "signal_strength": "medium",
+      "keywords": [
+        "network monitoring",
+        "switch management",
+        "lab automation"
+      ],
+      "competitors": [
+        {
+          "name": "PRTG - Monitoring",
+          "developer": "Paessler AG",
+          "rating": 4.8,
+          "reviews": 1945,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/prtg-monitoring/id326306472?uo=4",
+          "genre": "Productivity"
+        },
+        {
+          "name": "UniFi",
+          "developer": "Ubiquiti Inc.",
+          "rating": 4.5,
+          "reviews": 12226,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/unifi/id1057750338?uo=4",
+          "genre": "Productivity"
+        },
+        {
+          "name": "Network Utility",
+          "developer": "Fausto Ristagno",
+          "rating": 4.6,
+          "reviews": 610,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/network-utility/id573021799?uo=4",
+          "genre": "Utilities"
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "competitive"
     },
     {
       "id": "a551ff1619b1",
@@ -4744,6 +4960,114 @@
       "market_gap": "competitive"
     },
     {
+      "id": "cd7146e33101",
+      "found_date": "2026-04-03",
+      "platform": "Reddit",
+      "subreddit": "shortcuts",
+      "title": "Ideas for new personal automation types/triggers.",
+      "body": "",
+      "author": "Mission_Ferret_9769",
+      "url": "https://reddit.com/r/shortcuts/comments/1md8113/ideas_for_new_personal_automation_typestriggers/",
+      "post_date": "2025-07-30",
+      "upvotes": 21,
+      "comments": 26,
+      "category": "Utility",
+      "pain_summary": "Ideas for new personal automation types and triggers needed",
+      "ios_angle": "Personal automation app with custom trigger builder",
+      "signal_strength": "weak",
+      "keywords": [
+        "personal automation",
+        "custom triggers",
+        "shortcut app"
+      ],
+      "competitors": [
+        {
+          "name": "Power Automate",
+          "developer": "Microsoft Corporation",
+          "rating": 4.7,
+          "reviews": 5170,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/power-automate/id1094928825?uo=4",
+          "genre": "Business"
+        },
+        {
+          "name": "Pushcut: Shortcuts Automation",
+          "developer": "Simon Peter Leeb",
+          "rating": 4.4,
+          "reviews": 522,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/pushcut-shortcuts-automation/id1450936447?uo=4",
+          "genre": "Utilities"
+        },
+        {
+          "name": "Home Assistant",
+          "developer": "Nabu Casa, Inc",
+          "rating": 4.7,
+          "reviews": 3171,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/home-assistant/id1099568401?uo=4",
+          "genre": "Lifestyle"
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "competitive"
+    },
+    {
+      "id": "14e3f541b5a0",
+      "found_date": "2026-04-03",
+      "platform": "Reddit",
+      "subreddit": "BuyItForLife",
+      "title": "The Best Treadmills Today?",
+      "body": "",
+      "author": "jessicaorange6890",
+      "url": "https://reddit.com/r/BuyItForLife/comments/1lf98xv/the_best_treadmills_today/",
+      "post_date": "2025-06-19",
+      "upvotes": 16,
+      "comments": 27,
+      "category": "Fitness",
+      "pain_summary": "Best treadmills for a specific use case needed",
+      "ios_angle": "Treadmill workout app with personalized training plans",
+      "signal_strength": "weak",
+      "keywords": [
+        "treadmill workouts",
+        "fitness app",
+        "personalized training"
+      ],
+      "competitors": [
+        {
+          "name": "FitShow: Treadmill Workout",
+          "developer": "Fitshow (Xiamen) Infomation Technology Co., Ltd.",
+          "rating": 4.8,
+          "reviews": 4233,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/fitshow-treadmill-workout/id1387360716?uo=4",
+          "genre": "Health & Fitness"
+        },
+        {
+          "name": "iFIT Workouts",
+          "developer": "ICON Health & Fitness, Inc.",
+          "rating": 4.6,
+          "reviews": 65637,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/ifit-workouts/id1274601042?uo=4",
+          "genre": "Health & Fitness"
+        },
+        {
+          "name": "JustFit: Lazy Workout & Fit",
+          "developer": "Enerjoy Pte. Ltd.",
+          "rating": 4.8,
+          "reviews": 210867,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/justfit-lazy-workout-fit/id1574460221?uo=4",
+          "genre": "Health & Fitness"
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "saturated"
+    },
+    {
       "id": "de2f3abd45d5",
       "found_date": "2026-04-02",
       "platform": "Reddit",
@@ -5047,6 +5371,60 @@
       "status": "new",
       "notes": "",
       "market_gap": "competitive"
+    },
+    {
+      "id": "354a16201aa6",
+      "found_date": "2026-04-03",
+      "platform": "Reddit",
+      "subreddit": "Twitch",
+      "title": "For the past couple days, every time I watch a live stream (vods are",
+      "body": "if it wasn't obvious I censored the screenshot not because I'm embarrassed",
+      "author": "slappycrappygand",
+      "url": "https://reddit.com/r/Twitch/comments/1lc1wbq/for_the_past_couple_days_every_time_i_watch_a/",
+      "post_date": "2025-06-15",
+      "upvotes": 13,
+      "comments": 30,
+      "category": "Social",
+      "pain_summary": "Twitch app crashes during live streams on WiFi",
+      "ios_angle": "Stream management app with stability improvements",
+      "signal_strength": "weak",
+      "keywords": [
+        "stream management",
+        "live streaming app",
+        "stability issues"
+      ],
+      "competitors": [
+        {
+          "name": "Tubi: Movies & Live TV",
+          "developer": "Tubi, Inc",
+          "rating": 4.8,
+          "reviews": 1062946,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/tubi-movies-live-tv/id886445756?uo=4",
+          "genre": "Entertainment"
+        },
+        {
+          "name": "Plex: Stream Live TV Channels",
+          "developer": "Plex Inc.",
+          "rating": 4.6,
+          "reviews": 137169,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/plex-stream-live-tv-channels/id383457673?uo=4",
+          "genre": "Entertainment"
+        },
+        {
+          "name": "DStv Stream",
+          "developer": "Multichoice Support Services (Pty) Ltd",
+          "rating": 4.6,
+          "reviews": 8450,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/dstv-stream/id467168196?uo=4",
+          "genre": "Entertainment"
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "saturated"
     },
     {
       "id": "5efccd29e733",
@@ -5386,6 +5764,6 @@
       "market_gap": "saturated"
     }
   ],
-  "last_run": "2026-04-03T04:26:17.467973",
-  "total_runs": 8
+  "last_run": "2026-04-03T06:32:25.429832",
+  "total_runs": 9
 }
