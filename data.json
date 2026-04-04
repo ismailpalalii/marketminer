@@ -2527,6 +2527,60 @@
       "market_gap": "competitive"
     },
     {
+      "id": "de4d3527e331",
+      "found_date": "2026-04-04",
+      "platform": "Reddit",
+      "subreddit": "Twitch",
+      "title": "Twitch app won’t load streams on WiFi",
+      "body": "When I open a stream, the home button will shrink the stream like",
+      "author": "mochi_kathi",
+      "url": "https://reddit.com/r/Twitch/comments/1n56z61/twitch_app_wont_load_streams_on_wifi/",
+      "post_date": "2025-09-01",
+      "upvotes": 11,
+      "comments": 13,
+      "category": "skip",
+      "pain_summary": "twitch app won't load streams on wifi",
+      "ios_angle": "streaming app with improved wifi connectivity",
+      "signal_strength": "strong",
+      "keywords": [
+        "twitch app",
+        "wifi connectivity",
+        "stream loading"
+      ],
+      "competitors": [
+        {
+          "name": "eero wifi system",
+          "developer": "eero LLC",
+          "rating": 4.8,
+          "reviews": 179599,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/eero-wifi-system/id1023499075?uo=4",
+          "genre": "Lifestyle"
+        },
+        {
+          "name": "Linksys",
+          "developer": "Linksys USA, Inc.",
+          "rating": 4.7,
+          "reviews": 97858,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/linksys/id533516503?uo=4",
+          "genre": "Utilities"
+        },
+        {
+          "name": "StreamChamp: Streaming App",
+          "developer": "AnjLab",
+          "rating": 4.6,
+          "reviews": 3416,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/streamchamp-streaming-app/id1459647382?uo=4",
+          "genre": "Photo & Video"
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "saturated"
+    },
+    {
       "id": "a10e9b37f1e5",
       "found_date": "2026-04-02",
       "platform": "Reddit",
@@ -3815,6 +3869,60 @@
         }
       ],
       "market_gap": "saturated"
+    },
+    {
+      "id": "2472614cc927",
+      "found_date": "2026-04-04",
+      "platform": "Reddit",
+      "subreddit": "Twitch",
+      "title": "What apps do you use on your Live streams?",
+      "body": "why does the mobile app need updates after update, every time i\\",
+      "author": "MisaRific",
+      "url": "https://reddit.com/r/Twitch/comments/1kjcnsc/what_apps_do_you_use_on_your_live_streams/",
+      "post_date": "2025-05-10",
+      "upvotes": 12,
+      "comments": 41,
+      "category": "skip",
+      "pain_summary": "mobile app needs updates after update, every time i open it",
+      "ios_angle": "streaming app with reduced update frequency",
+      "signal_strength": "medium",
+      "keywords": [
+        "streaming app",
+        "update frequency",
+        "live streaming"
+      ],
+      "competitors": [
+        {
+          "name": "Hulu: Stream TV shows & movies",
+          "developer": "Hulu, LLC",
+          "rating": 4.6,
+          "reviews": 1429378,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/hulu-stream-tv-shows-movies/id376510438?uo=4",
+          "genre": "Entertainment"
+        },
+        {
+          "name": "SOOP - Live Streaming",
+          "developer": "SOOP Co., Ltd.",
+          "rating": 4.2,
+          "reviews": 708,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/soop-live-streaming/id334185830?uo=4",
+          "genre": "Entertainment"
+        },
+        {
+          "name": "Musictrax - Unlimited Music",
+          "developer": "JG Applications Ltd",
+          "rating": 4.2,
+          "reviews": 1184,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/musictrax-unlimited-music/id1056364454?uo=4",
+          "genre": "Entertainment"
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "opportunity"
     },
     {
       "id": "2240998836a8",
@@ -5838,6 +5946,6 @@
       "market_gap": "saturated"
     }
   ],
-  "last_run": "2026-04-04T03:59:31.022910",
-  "total_runs": 10
+  "last_run": "2026-04-04T06:49:57.852435",
+  "total_runs": 11
 }
