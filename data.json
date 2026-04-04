@@ -590,6 +590,59 @@
       "market_gap": "saturated"
     },
     {
+      "id": "e52b1b40e8f7",
+      "found_date": "2026-04-04",
+      "platform": "Reddit",
+      "subreddit": "Teachers",
+      "title": "Elementary teachers- what would you do if a student asks you if Trump",
+      "body": "has anyone tried Project Aqua by Adobe with their early elementary",
+      "author": "davosknuckles",
+      "url": "https://reddit.com/r/Teachers/comments/1k39svt/elementary_teachers_what_would_you_do_if_a/",
+      "post_date": "2025-04-20",
+      "upvotes": 774,
+      "comments": 846,
+      "category": "Education",
+      "pain_summary": "student asks about Trump, elementary teacher response",
+      "ios_angle": "ADHD-friendly classroom discussion tool with empathy training",
+      "signal_strength": "strong",
+      "keywords": [
+        "classroom discussion app",
+        "empathy training for teachers"
+      ],
+      "competitors": [
+        {
+          "name": "ClassDojo",
+          "developer": "ClassDojo, Inc.",
+          "rating": 4.9,
+          "reviews": 3882339,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/classdojo/id552602056?uo=4",
+          "genre": "Education"
+        },
+        {
+          "name": "Seesaw",
+          "developer": "Seesaw Learning, Inc.",
+          "rating": 4.8,
+          "reviews": 100059,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/seesaw/id930565184?uo=4",
+          "genre": "Education"
+        },
+        {
+          "name": "Google Classroom",
+          "developer": "Google",
+          "rating": 2.0,
+          "reviews": 33492,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/google-classroom/id924620788?uo=4",
+          "genre": "Education"
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "competitive"
+    },
+    {
       "id": "ff710415b05a",
       "found_date": "2026-04-03",
       "platform": "Reddit",
@@ -3838,6 +3891,27 @@
       "notes": ""
     },
     {
+      "id": "a2d9b42e8cbe",
+      "found_date": "2026-04-04",
+      "platform": "Reddit",
+      "subreddit": "AskEngineers",
+      "title": "How to create the perfect pizza with engineering? [question]",
+      "body": "Hey all!  \\nSo I have this old Siemens E14-19 washing machine that's\\",
+      "author": "abrown221",
+      "url": "https://reddit.com/r/AskEngineers/comments/1lv4cub/how_to_create_the_perfect_pizza_with_engineering/",
+      "post_date": "2025-07-09",
+      "upvotes": 10,
+      "comments": 38,
+      "category": "Uncategorized",
+      "pain_summary": "",
+      "ios_angle": "",
+      "signal_strength": "medium",
+      "keywords": [],
+      "competitors": [],
+      "status": "new",
+      "notes": ""
+    },
+    {
       "id": "5a10dd4286ec",
       "found_date": "2026-04-03",
       "platform": "Reddit",
@@ -5764,6 +5838,6 @@
       "market_gap": "saturated"
     }
   ],
-  "last_run": "2026-04-03T06:32:25.429832",
-  "total_runs": 9
+  "last_run": "2026-04-04T03:59:31.022910",
+  "total_runs": 10
 }
