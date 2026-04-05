@@ -751,6 +751,59 @@
       "market_gap": "saturated"
     },
     {
+      "id": "e621e072a31a",
+      "found_date": "2026-04-05",
+      "platform": "Reddit",
+      "subreddit": "homelab",
+      "title": "Downgrading the lab: I think I just want my weekends back",
+      "body": "",
+      "author": "No-Yellow9948",
+      "url": "https://reddit.com/r/homelab/comments/1s27hut/downgrading_the_lab_i_think_i_just_want_my/",
+      "post_date": "2026-03-24",
+      "upvotes": 492,
+      "comments": 189,
+      "category": "Automation",
+      "pain_summary": "Want weekends back from home lab work",
+      "ios_angle": "Automate lab tasks for weekend recovery",
+      "signal_strength": "strong",
+      "keywords": [
+        "lab automation",
+        "weekend mode"
+      ],
+      "competitors": [
+        {
+          "name": "Power Automate",
+          "developer": "Microsoft Corporation",
+          "rating": 4.7,
+          "reviews": 5171,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/power-automate/id1094928825?uo=4",
+          "genre": "Business"
+        },
+        {
+          "name": "Lab Laps: Lab Multi Timer",
+          "developer": "Lenard Szabo",
+          "rating": 0,
+          "reviews": 0,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/lab-laps-lab-multi-timer/id6760195063?uo=4",
+          "genre": "Utilities"
+        },
+        {
+          "name": "Auto Clicker: Tap Automation",
+          "developer": "Florence Mitchell",
+          "rating": 4.4,
+          "reviews": 35,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/auto-clicker-tap-automation/id6758081018?uo=4",
+          "genre": "Reference"
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "blue_ocean"
+    },
+    {
       "id": "bb7f8c115c4b",
       "found_date": "2026-04-03",
       "platform": "Reddit",
@@ -5946,6 +5999,6 @@
       "market_gap": "saturated"
     }
   ],
-  "last_run": "2026-04-04T06:49:57.852435",
-  "total_runs": 11
+  "last_run": "2026-04-05T06:58:48.929725",
+  "total_runs": 12
 }
