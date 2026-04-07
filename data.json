@@ -4313,6 +4313,27 @@
       "market_gap": "saturated"
     },
     {
+      "id": "d51b5fea0f1b",
+      "found_date": "2026-04-07",
+      "platform": "Reddit",
+      "subreddit": "shortcuts",
+      "title": "custom charge limit shortcut. this helps lower charge cycles and still",
+      "body": "Feels like this is an easy one and give way more flexibility with",
+      "author": "Dry-Jelly-743",
+      "url": "https://reddit.com/r/shortcuts/comments/1se7elw/custom_charge_limit_shortcut_this_helps_lower/",
+      "post_date": "2026-04-06",
+      "upvotes": 13,
+      "comments": 13,
+      "category": "Uncategorized",
+      "pain_summary": "",
+      "ios_angle": "",
+      "signal_strength": "medium",
+      "keywords": [],
+      "competitors": [],
+      "status": "new",
+      "notes": ""
+    },
+    {
       "id": "2472614cc927",
       "found_date": "2026-04-04",
       "platform": "Reddit",
@@ -6388,6 +6409,6 @@
       "market_gap": "saturated"
     }
   ],
-  "last_run": "2026-04-07T03:01:01.202906",
-  "total_runs": 16
+  "last_run": "2026-04-07T06:01:10.234112",
+  "total_runs": 17
 }
