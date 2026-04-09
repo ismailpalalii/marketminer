@@ -3322,6 +3322,96 @@
       "monetization": "unclear"
     },
     {
+      "id": "eae850665cbf",
+      "found_date": "2026-04-09",
+      "platform": "Reddit",
+      "subreddit": "Parenting",
+      "title": "Am I overthinking this, or has RSVP courtesy completely disappeared?",
+      "body": "What is a good way to virtually keep track of your kid's allowance?",
+      "author": "Acceptable_Mind_1994",
+      "url": "https://reddit.com/r/Parenting/comments/1sf4vct/am_i_overthinking_this_or_has_rsvp_courtesy/",
+      "post_date": "2026-04-07",
+      "upvotes": 121,
+      "comments": 84,
+      "category": "Parenting",
+      "pain_summary": "Parents struggle to track kid's allowance virtually",
+      "ios_angle": "Digital allowance tracker with reminders and notifications",
+      "signal_strength": "medium",
+      "indie_feasibility": "high",
+      "monetization": "one_time",
+      "keywords": [
+        "digital allowance tracker",
+        "kid allowance management",
+        "parental finance app"
+      ],
+      "competitors": [
+        {
+          "name": "GoHenry by Acorns Kids Banking",
+          "developer": "gohenry Ltd",
+          "rating": 4.5,
+          "reviews": 13826,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/gohenry-by-acorns-kids-banking/id683249974?uo=4",
+          "genre": "Finance",
+          "last_updated": "2026-03-27",
+          "abandoned": false,
+          "description": "GoHenry by Acorns is the debit card & banking app for kids and teens. Young people aged 6-18 can lea"
+        },
+        {
+          "name": "Chores & Allowance Bot",
+          "developer": "WingBoat.com",
+          "rating": 4.5,
+          "reviews": 10444,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/chores-allowance-bot/id629797415?uo=4",
+          "genre": "Productivity",
+          "last_updated": "2025-12-09",
+          "abandoned": false,
+          "description": "Chores & Allowance Bot is an easy and versatile way to keep track of your family chores, allowance, "
+        },
+        {
+          "name": "Chorsee: Chores Tracker",
+          "developer": "Ben Noland",
+          "rating": 4.6,
+          "reviews": 10321,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/chorsee-chores-tracker/id1611068600?uo=4",
+          "genre": "Productivity",
+          "last_updated": "2026-04-08",
+          "abandoned": false,
+          "description": "Chorsee is a chores and allowance tracker designed for families. Our goal is to provide a clean and "
+        },
+        {
+          "name": "TipTracker - track your income",
+          "developer": "Pace Apps Inc.",
+          "rating": 4.8,
+          "reviews": 9102,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/tiptracker-track-your-income/id1161307849?uo=4",
+          "genre": "Finance",
+          "last_updated": "2026-03-28",
+          "abandoned": false,
+          "description": "With Tip Tracker, you can easily track your hourly income, hours worked, and tips.\n\nHere are some gr"
+        },
+        {
+          "name": "Dext: Expense Tracker App",
+          "developer": "Dext Software Limited",
+          "rating": 4.8,
+          "reviews": 6676,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/dext-expense-tracker-app/id418327708?uo=4",
+          "genre": "Business",
+          "last_updated": "2026-04-01",
+          "abandoned": false,
+          "description": "Dext Expense Management App: Extract, Track & Manage!\n\nDext is the best expense tracker app that eff"
+        }
+      ],
+      "market_gap": "saturated",
+      "opportunity_score": 57.1,
+      "status": "new",
+      "notes": ""
+    },
+    {
       "id": "f333b9bcbdc0",
       "found_date": "2026-04-03",
       "platform": "Reddit",
@@ -9056,6 +9146,6 @@
       "monetization": "unclear"
     }
   ],
-  "last_run": "2026-04-08T09:00:29.156377",
-  "total_runs": 23
+  "last_run": "2026-04-09T03:01:39.963183",
+  "total_runs": 24
 }
