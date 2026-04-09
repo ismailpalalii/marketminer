@@ -7719,6 +7719,31 @@
       "monetization": "unclear"
     },
     {
+      "id": "d39926719271",
+      "found_date": "2026-04-09",
+      "platform": "Reddit",
+      "subreddit": "AppIdeas",
+      "title": "What’s something small but annoying you wish an app could fix?",
+      "body": "",
+      "author": "Sea_Position2064",
+      "url": "https://reddit.com/r/AppIdeas/comments/1lnjp99/whats_something_small_but_annoying_you_wish_an/",
+      "post_date": "2025-06-29",
+      "upvotes": 10,
+      "comments": 37,
+      "category": "Uncategorized",
+      "pain_summary": "",
+      "ios_angle": "",
+      "signal_strength": "medium",
+      "indie_feasibility": "medium",
+      "monetization": "unclear",
+      "keywords": [],
+      "competitors": [],
+      "market_gap": "",
+      "opportunity_score": 42.1,
+      "status": "new",
+      "notes": ""
+    },
+    {
       "id": "2e9462ced007",
       "found_date": "2026-04-02",
       "platform": "Reddit",
@@ -9146,6 +9171,6 @@
       "monetization": "unclear"
     }
   ],
-  "last_run": "2026-04-09T03:01:39.963183",
-  "total_runs": 24
+  "last_run": "2026-04-09T06:04:06.603909",
+  "total_runs": 25
 }
