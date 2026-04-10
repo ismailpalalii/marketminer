@@ -915,34 +915,6 @@
       "monetization": "unclear"
     },
     {
-      "id": "3f0a6a8aa505",
-      "found_date": "2026-04-02",
-      "platform": "Reddit",
-      "subreddit": "SomebodyMakeThis",
-      "title": "A \"dating\" app where you can post an event you are going to, and find",
-      "body": "I consume a lot of content on YouTube (informational) or read blogs.",
-      "author": "Intelligent-Bottle22",
-      "url": "https://reddit.com/r/SomebodyMakeThis/comments/1rptkx7/a_dating_app_where_you_can_post_an_event_you_are/",
-      "post_date": "2026-03-10",
-      "upvotes": 38,
-      "comments": 15,
-      "category": "Social",
-      "pain_summary": "Dating apps can be superficial and lack meaningful connections",
-      "ios_angle": "Event-based dating app with focus on shared interests",
-      "signal_strength": "weak",
-      "keywords": [
-        "event based dating app",
-        "shared interest finder"
-      ],
-      "status": "new",
-      "notes": "",
-      "competitors": [],
-      "market_gap": "blue_ocean",
-      "indie_feasibility": "high",
-      "monetization": "subscription",
-      "opportunity_score": 72.9
-    },
-    {
       "id": "43ab952840ac",
       "found_date": "2026-04-03",
       "platform": "Reddit",
@@ -1314,6 +1286,34 @@
       "indie_feasibility": "high",
       "monetization": "subscription",
       "opportunity_score": 70.1
+    },
+    {
+      "id": "3f0a6a8aa505",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "SomebodyMakeThis",
+      "title": "A \"dating\" app where you can post an event you are going to, and find",
+      "body": "I consume a lot of content on YouTube (informational) or read blogs.",
+      "author": "Intelligent-Bottle22",
+      "url": "https://reddit.com/r/SomebodyMakeThis/comments/1rptkx7/a_dating_app_where_you_can_post_an_event_you_are/",
+      "post_date": "2026-03-10",
+      "upvotes": 38,
+      "comments": 15,
+      "category": "Social",
+      "pain_summary": "Dating apps can be superficial and lack meaningful connections",
+      "ios_angle": "Event-based dating app with focus on shared interests",
+      "signal_strength": "weak",
+      "keywords": [
+        "event based dating app",
+        "shared interest finder"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [],
+      "market_gap": "blue_ocean",
+      "indie_feasibility": "high",
+      "monetization": "subscription",
+      "opportunity_score": 69.9
     },
     {
       "id": "12581aad2f5a",
@@ -9196,6 +9196,6 @@
       "monetization": "unclear"
     }
   ],
-  "last_run": "2026-04-09T09:02:14.145454",
-  "total_runs": 26
+  "last_run": "2026-04-10T03:31:18.267907",
+  "total_runs": 27
 }
