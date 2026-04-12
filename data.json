@@ -5508,6 +5508,31 @@
       "notes": ""
     },
     {
+      "id": "95bccd1e16ce",
+      "found_date": "2026-04-12",
+      "platform": "Reddit",
+      "subreddit": "freelance",
+      "title": "how \"free work\" turned into my best paying clients, i know this sounds",
+      "body": "TIL from reading another thread that Upwork use an app to track",
+      "author": "sadiqueb",
+      "url": "https://reddit.com/r/freelance/comments/1seqrgk/how_free_work_turned_into_my_best_paying_clients/",
+      "post_date": "2026-04-07",
+      "upvotes": 42,
+      "comments": 22,
+      "category": "Uncategorized",
+      "pain_summary": "",
+      "ios_angle": "",
+      "signal_strength": "medium",
+      "indie_feasibility": "medium",
+      "monetization": "unclear",
+      "keywords": [],
+      "competitors": [],
+      "market_gap": "",
+      "opportunity_score": 50.2,
+      "status": "new",
+      "notes": ""
+    },
+    {
       "id": "354a16201aa6",
       "found_date": "2026-04-03",
       "platform": "Reddit",
@@ -9221,6 +9246,6 @@
       "monetization": "unclear"
     }
   ],
-  "last_run": "2026-04-11T03:01:51.027370",
-  "total_runs": 30
+  "last_run": "2026-04-12T03:47:37.836014",
+  "total_runs": 32
 }
