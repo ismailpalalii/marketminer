@@ -358,35 +358,6 @@
       "opportunity_score": 82.1
     },
     {
-      "id": "fb22c5ca1d79",
-      "found_date": "2026-04-02",
-      "platform": "Reddit",
-      "subreddit": "ynab",
-      "title": "Targets need an overhaul",
-      "body": "Me and my wife have been using YNAB together for some time now.",
-      "author": "Deliquate",
-      "url": "https://reddit.com/r/ynab/comments/1o7vyeo/targets_need_an_overhaul/",
-      "post_date": "2025-10-16",
-      "upvotes": 120,
-      "comments": 71,
-      "category": "Finance",
-      "pain_summary": "YNAB's budgeting plan is inflexible for irregular income",
-      "ios_angle": "Customizable budgeting app with automated expense tracking for freelancers",
-      "signal_strength": "strong",
-      "keywords": [
-        "budgeting app",
-        "freelance income tracker",
-        "expense management"
-      ],
-      "status": "new",
-      "notes": "",
-      "competitors": [],
-      "market_gap": "blue_ocean",
-      "indie_feasibility": "medium",
-      "monetization": "subscription",
-      "opportunity_score": 79.8
-    },
-    {
       "id": "275360135517",
       "found_date": "2026-04-07",
       "platform": "Reddit",
@@ -444,35 +415,6 @@
       "opportunity_score": 79.0
     },
     {
-      "id": "54a7b292524a",
-      "found_date": "2026-04-02",
-      "platform": "Reddit",
-      "subreddit": "freelance",
-      "title": "Client keeps asking for more and more features after underpaying, what",
-      "body": "TIL from reading another thread that Upwork use an app to track",
-      "author": "firas010hedfi",
-      "url": "https://reddit.com/r/freelance/comments/1o7e5c0/client_keeps_asking_for_more_and_more_features/",
-      "post_date": "2025-10-15",
-      "upvotes": 32,
-      "comments": 57,
-      "category": "Career",
-      "pain_summary": "Freelancer needs to track client requests and payments",
-      "ios_angle": "freelance management app with project tracking and invoicing feature",
-      "signal_strength": "strong",
-      "keywords": [
-        "freelance management",
-        "project tracker",
-        "client payment app"
-      ],
-      "status": "new",
-      "notes": "",
-      "competitors": [],
-      "market_gap": "blue_ocean",
-      "opportunity_score": 77.9,
-      "indie_feasibility": "medium",
-      "monetization": "unclear"
-    },
-    {
       "id": "9e06ee0d2e44",
       "found_date": "2026-04-02",
       "platform": "Reddit",
@@ -500,6 +442,35 @@
       "indie_feasibility": "medium",
       "monetization": "one_time",
       "opportunity_score": 77.9
+    },
+    {
+      "id": "fb22c5ca1d79",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "ynab",
+      "title": "Targets need an overhaul",
+      "body": "Me and my wife have been using YNAB together for some time now.",
+      "author": "Deliquate",
+      "url": "https://reddit.com/r/ynab/comments/1o7vyeo/targets_need_an_overhaul/",
+      "post_date": "2025-10-16",
+      "upvotes": 120,
+      "comments": 71,
+      "category": "Finance",
+      "pain_summary": "YNAB's budgeting plan is inflexible for irregular income",
+      "ios_angle": "Customizable budgeting app with automated expense tracking for freelancers",
+      "signal_strength": "strong",
+      "keywords": [
+        "budgeting app",
+        "freelance income tracker",
+        "expense management"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [],
+      "market_gap": "blue_ocean",
+      "indie_feasibility": "medium",
+      "monetization": "subscription",
+      "opportunity_score": 77.8
     },
     {
       "id": "658403cdb7dc",
@@ -673,6 +644,35 @@
       "competitors": [],
       "market_gap": "blue_ocean",
       "opportunity_score": 76.2,
+      "indie_feasibility": "medium",
+      "monetization": "unclear"
+    },
+    {
+      "id": "54a7b292524a",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "freelance",
+      "title": "Client keeps asking for more and more features after underpaying, what",
+      "body": "TIL from reading another thread that Upwork use an app to track",
+      "author": "firas010hedfi",
+      "url": "https://reddit.com/r/freelance/comments/1o7e5c0/client_keeps_asking_for_more_and_more_features/",
+      "post_date": "2025-10-15",
+      "upvotes": 32,
+      "comments": 57,
+      "category": "Career",
+      "pain_summary": "Freelancer needs to track client requests and payments",
+      "ios_angle": "freelance management app with project tracking and invoicing feature",
+      "signal_strength": "strong",
+      "keywords": [
+        "freelance management",
+        "project tracker",
+        "client payment app"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [],
+      "market_gap": "blue_ocean",
+      "opportunity_score": 75.9,
       "indie_feasibility": "medium",
       "monetization": "unclear"
     },
@@ -5893,96 +5893,6 @@
       "opportunity_score": 49.5
     },
     {
-      "id": "066c4cf71995",
-      "found_date": "2026-04-02",
-      "platform": "Reddit",
-      "subreddit": "ynab",
-      "title": "Anyone else wish you could “pair” transactions in YNAB for reimbursements?",
-      "body": "With the most recent update, YNAB removed the “Show Reconciled”",
-      "author": "_Golden_Teacher_",
-      "url": "https://reddit.com/r/ynab/comments/1o7kd3i/anyone_else_wish_you_could_pair_transactions_in/",
-      "post_date": "2025-10-15",
-      "upvotes": 34,
-      "comments": 52,
-      "category": "Finance",
-      "pain_summary": "YNAB's transaction pairing feature is lacking",
-      "ios_angle": "Transaction pairing and reimbursement tracking for YNAB",
-      "signal_strength": "strong",
-      "keywords": [
-        "ynab integration",
-        "transaction pairing",
-        "reimbursement tracker"
-      ],
-      "status": "new",
-      "notes": "",
-      "competitors": [
-        {
-          "name": "MAJORITY: Mobile banking",
-          "developer": "Majority USA, LLC",
-          "rating": 4.9,
-          "reviews": 71190,
-          "price": "Free",
-          "url": "https://apps.apple.com/us/app/majority-mobile-banking/id1458589760?uo=4",
-          "genre": "Finance",
-          "last_updated": "2026-03-19",
-          "abandoned": false,
-          "description": "Join MAJORITY, the mobile banking app designed to empower internationals to manage their money.\n\nOpe"
-        },
-        {
-          "name": "Wintrust Community Banks",
-          "developer": "Wintrust Financial Corporation",
-          "rating": 4.8,
-          "reviews": 23400,
-          "price": "Free",
-          "url": "https://apps.apple.com/us/app/wintrust-community-banks/id1619335105?uo=4",
-          "genre": "Finance",
-          "last_updated": "2026-01-26",
-          "abandoned": false,
-          "description": "Wintrust Community Banks App helps you manage your money quickly and easily — anytime, anywhere. Whe"
-        },
-        {
-          "name": "OnPoint Mobile",
-          "developer": "OnPoint Community Credit Union",
-          "rating": 4.6,
-          "reviews": 21903,
-          "price": "Free",
-          "url": "https://apps.apple.com/us/app/onpoint-mobile/id1243092558?uo=4",
-          "genre": "Finance",
-          "last_updated": "2025-12-09",
-          "abandoned": false,
-          "description": "One app for all members - Securely and safely check balances, transfer funds, view transactions and "
-        },
-        {
-          "name": "UNIFY Financial Credit Union",
-          "developer": "UNIFY Financial Credit Union",
-          "rating": 4.7,
-          "reviews": 9499,
-          "price": "Free",
-          "url": "https://apps.apple.com/us/app/unify-financial-credit-union/id1143082572?uo=4",
-          "genre": "Finance",
-          "last_updated": "2025-10-20",
-          "abandoned": false,
-          "description": "•\tPerform most activities from your mobile device including: creating new accounts, setting up trans"
-        },
-        {
-          "name": "Brex",
-          "developer": "Brex",
-          "rating": 4.8,
-          "reviews": 8826,
-          "price": "Free",
-          "url": "https://apps.apple.com/us/app/brex/id1472905508?uo=4",
-          "genre": "Business",
-          "last_updated": "2026-03-25",
-          "abandoned": false,
-          "description": "Brex offers corporate cards, expense management, reimbursements, business accounts, and travel — all"
-        }
-      ],
-      "market_gap": "saturated",
-      "indie_feasibility": "medium",
-      "monetization": "one_time",
-      "opportunity_score": 49.2
-    },
-    {
       "id": "ea5767ba4011",
       "found_date": "2026-04-02",
       "platform": "Reddit",
@@ -6749,6 +6659,96 @@
       "monetization": "unclear"
     },
     {
+      "id": "066c4cf71995",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "ynab",
+      "title": "Anyone else wish you could “pair” transactions in YNAB for reimbursements?",
+      "body": "With the most recent update, YNAB removed the “Show Reconciled”",
+      "author": "_Golden_Teacher_",
+      "url": "https://reddit.com/r/ynab/comments/1o7kd3i/anyone_else_wish_you_could_pair_transactions_in/",
+      "post_date": "2025-10-15",
+      "upvotes": 34,
+      "comments": 52,
+      "category": "Finance",
+      "pain_summary": "YNAB's transaction pairing feature is lacking",
+      "ios_angle": "Transaction pairing and reimbursement tracking for YNAB",
+      "signal_strength": "strong",
+      "keywords": [
+        "ynab integration",
+        "transaction pairing",
+        "reimbursement tracker"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [
+        {
+          "name": "MAJORITY: Mobile banking",
+          "developer": "Majority USA, LLC",
+          "rating": 4.9,
+          "reviews": 71190,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/majority-mobile-banking/id1458589760?uo=4",
+          "genre": "Finance",
+          "last_updated": "2026-03-19",
+          "abandoned": false,
+          "description": "Join MAJORITY, the mobile banking app designed to empower internationals to manage their money.\n\nOpe"
+        },
+        {
+          "name": "Wintrust Community Banks",
+          "developer": "Wintrust Financial Corporation",
+          "rating": 4.8,
+          "reviews": 23400,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/wintrust-community-banks/id1619335105?uo=4",
+          "genre": "Finance",
+          "last_updated": "2026-01-26",
+          "abandoned": false,
+          "description": "Wintrust Community Banks App helps you manage your money quickly and easily — anytime, anywhere. Whe"
+        },
+        {
+          "name": "OnPoint Mobile",
+          "developer": "OnPoint Community Credit Union",
+          "rating": 4.6,
+          "reviews": 21903,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/onpoint-mobile/id1243092558?uo=4",
+          "genre": "Finance",
+          "last_updated": "2025-12-09",
+          "abandoned": false,
+          "description": "One app for all members - Securely and safely check balances, transfer funds, view transactions and "
+        },
+        {
+          "name": "UNIFY Financial Credit Union",
+          "developer": "UNIFY Financial Credit Union",
+          "rating": 4.7,
+          "reviews": 9499,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/unify-financial-credit-union/id1143082572?uo=4",
+          "genre": "Finance",
+          "last_updated": "2025-10-20",
+          "abandoned": false,
+          "description": "•\tPerform most activities from your mobile device including: creating new accounts, setting up trans"
+        },
+        {
+          "name": "Brex",
+          "developer": "Brex",
+          "rating": 4.8,
+          "reviews": 8826,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/brex/id1472905508?uo=4",
+          "genre": "Business",
+          "last_updated": "2026-03-25",
+          "abandoned": false,
+          "description": "Brex offers corporate cards, expense management, reimbursements, business accounts, and travel — all"
+        }
+      ],
+      "market_gap": "saturated",
+      "indie_feasibility": "medium",
+      "monetization": "one_time",
+      "opportunity_score": 47.2
+    },
+    {
       "id": "8bd39ade1184",
       "found_date": "2026-04-03",
       "platform": "Reddit",
@@ -6927,6 +6927,31 @@
       "opportunity_score": 46.9,
       "indie_feasibility": "medium",
       "monetization": "unclear"
+    },
+    {
+      "id": "855aafec0924",
+      "found_date": "2026-04-15",
+      "platform": "Reddit",
+      "subreddit": "shortcuts",
+      "title": "Need help with iPhone/iPad Shortcut to deal with spam iMessages. Want",
+      "body": "I’m sure im not the first one who’s said this, but Apple should\\",
+      "author": "DarthRanger",
+      "url": "https://reddit.com/r/shortcuts/comments/1siz2v5/need_help_with_iphoneipad_shortcut_to_deal_with/",
+      "post_date": "2026-04-12",
+      "upvotes": 12,
+      "comments": 10,
+      "category": "Uncategorized",
+      "pain_summary": "",
+      "ios_angle": "",
+      "signal_strength": "medium",
+      "indie_feasibility": "medium",
+      "monetization": "unclear",
+      "keywords": [],
+      "competitors": [],
+      "market_gap": "",
+      "opportunity_score": 46.9,
+      "status": "new",
+      "notes": ""
     },
     {
       "id": "c3fcc5c12d62",
@@ -9335,6 +9360,6 @@
       "monetization": "unclear"
     }
   ],
-  "last_run": "2026-04-13T03:55:13.639037",
-  "total_runs": 34
+  "last_run": "2026-04-15T03:46:32.688825",
+  "total_runs": 39
 }
