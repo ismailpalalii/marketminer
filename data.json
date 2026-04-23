@@ -2736,6 +2736,31 @@
       "opportunity_score": 59.3
     },
     {
+      "id": "c0dbb63daa3c",
+      "found_date": "2026-04-23",
+      "platform": "Reddit",
+      "subreddit": "homelab",
+      "title": "My 7-Node Proxmox Cluster \"Pfannkuchen\" – 300 Threads, 3.3TB RAM, and",
+      "body": "Introducing my first 'Dream' home Lab, Firebolt.\\n\\nI have completed\\",
+      "author": "feldjaeger_",
+      "url": "https://reddit.com/r/homelab/comments/1sryf0c/my_7node_proxmox_cluster_pfannkuchen_300_threads/",
+      "post_date": "2026-04-21",
+      "upvotes": 982,
+      "comments": 167,
+      "category": "Uncategorized",
+      "pain_summary": "",
+      "ios_angle": "",
+      "signal_strength": "medium",
+      "indie_feasibility": "medium",
+      "monetization": "unclear",
+      "keywords": [],
+      "competitors": [],
+      "market_gap": "",
+      "opportunity_score": 59.1,
+      "status": "new",
+      "notes": ""
+    },
+    {
       "id": "297b44c37a44",
       "found_date": "2026-04-03",
       "platform": "Reddit",
@@ -5016,6 +5041,31 @@
       "opportunity_score": 51.3,
       "indie_feasibility": "medium",
       "monetization": "unclear"
+    },
+    {
+      "id": "d3a70a26e64d",
+      "found_date": "2026-04-23",
+      "platform": "Reddit",
+      "subreddit": "SideProject",
+      "title": "I always wanted to build things, and so quit my job and used AI to",
+      "body": "Hey everyone 👋",
+      "author": "ElkGullible6711",
+      "url": "https://reddit.com/r/SideProject/comments/1sn8d9u/i_always_wanted_to_build_things_and_so_quit_my/",
+      "post_date": "2026-04-16",
+      "upvotes": 10,
+      "comments": 54,
+      "category": "Uncategorized",
+      "pain_summary": "",
+      "ios_angle": "",
+      "signal_strength": "medium",
+      "indie_feasibility": "medium",
+      "monetization": "unclear",
+      "keywords": [],
+      "competitors": [],
+      "market_gap": "",
+      "opportunity_score": 51.2,
+      "status": "new",
+      "notes": ""
     },
     {
       "id": "63b90650b1fb",
@@ -9449,6 +9499,6 @@
       "opportunity_score": 29.8
     }
   ],
-  "last_run": "2026-04-23T03:32:47.443506",
-  "total_runs": 55
+  "last_run": "2026-04-23T06:31:27.352220",
+  "total_runs": 56
 }
