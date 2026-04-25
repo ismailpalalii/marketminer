@@ -1022,35 +1022,6 @@
       "opportunity_score": 71.9
     },
     {
-      "id": "f260358b57ee",
-      "found_date": "2026-04-03",
-      "platform": "Reddit",
-      "subreddit": "AskEngineers",
-      "title": "I built a product but I’m going crazy in versioning",
-      "body": "At the root of every engineer there is the desire and ability to\\",
-      "author": "karimpanacci",
-      "url": "https://reddit.com/r/AskEngineers/comments/1qk94to/i_built_a_product_but_im_going_crazy_in_versioning/",
-      "post_date": "2026-01-23",
-      "upvotes": 24,
-      "comments": 40,
-      "category": "Education",
-      "pain_summary": "challenges with version control and management",
-      "ios_angle": "version control and collaboration platform for engineers",
-      "signal_strength": "medium",
-      "keywords": [
-        "version control",
-        "collaboration tool",
-        "engineering productivity"
-      ],
-      "competitors": [],
-      "status": "new",
-      "notes": "",
-      "market_gap": "blue_ocean",
-      "opportunity_score": 71.8,
-      "indie_feasibility": "medium",
-      "monetization": "unclear"
-    },
-    {
       "id": "eab7c52f2b73",
       "found_date": "2026-04-03",
       "platform": "Reddit",
@@ -1105,95 +1076,6 @@
       "notes": "",
       "market_gap": "blue_ocean",
       "opportunity_score": 71.4,
-      "indie_feasibility": "medium",
-      "monetization": "unclear"
-    },
-    {
-      "id": "e621e072a31a",
-      "found_date": "2026-04-05",
-      "platform": "Reddit",
-      "subreddit": "homelab",
-      "title": "Downgrading the lab: I think I just want my weekends back",
-      "body": "",
-      "author": "No-Yellow9948",
-      "url": "https://reddit.com/r/homelab/comments/1s27hut/downgrading_the_lab_i_think_i_just_want_my/",
-      "post_date": "2026-03-24",
-      "upvotes": 492,
-      "comments": 189,
-      "category": "Automation",
-      "pain_summary": "Want weekends back from home lab work",
-      "ios_angle": "Automate lab tasks for weekend recovery",
-      "signal_strength": "strong",
-      "keywords": [
-        "lab automation",
-        "weekend mode"
-      ],
-      "competitors": [
-        {
-          "name": "Manus - AI Agent & Automation",
-          "developer": "BUTTERFLY EFFECT PTE. LTD.",
-          "rating": 4.8,
-          "reviews": 24893,
-          "price": "Free",
-          "url": "https://apps.apple.com/us/app/manus-ai-agent-automation/id6740909540?uo=4",
-          "genre": "Productivity",
-          "last_updated": "2026-04-02",
-          "abandoned": false,
-          "description": "Leave it to Manus - The AI agent that doesn't just think, it delivers.\n\nManus from Meta is a general"
-        },
-        {
-          "name": "Taskade: AI Apps & Agents",
-          "developer": "Taskcade Inc.",
-          "rating": 4.7,
-          "reviews": 6415,
-          "price": "Free",
-          "url": "https://apps.apple.com/us/app/taskade-ai-apps-agents/id1264713923?uo=4",
-          "genre": "Productivity",
-          "last_updated": "2026-03-11",
-          "abandoned": false,
-          "description": "BUILD AI APPS. TRAIN AGENTS. AUTOMATE EVERYTHING.\n\nTaskade is an AI App Builder and Agent Platform t"
-        },
-        {
-          "name": "Power Automate",
-          "developer": "Microsoft Corporation",
-          "rating": 4.7,
-          "reviews": 5173,
-          "price": "Free",
-          "url": "https://apps.apple.com/us/app/power-automate/id1094928825?uo=4",
-          "genre": "Business",
-          "last_updated": "2026-03-23",
-          "abandoned": false,
-          "description": "Carry the power of Microsoft Power Automate in your pocket. Boost your team's productivity with Micr"
-        },
-        {
-          "name": "Toolbox Pro for Shortcuts",
-          "developer": "Snailed It Development Ltd",
-          "rating": 4.5,
-          "reviews": 425,
-          "price": "Free",
-          "url": "https://apps.apple.com/us/app/toolbox-pro-for-shortcuts/id1476205977?uo=4",
-          "genre": "Utilities",
-          "last_updated": "2026-02-26",
-          "abandoned": false,
-          "description": "Toolbox Pro gives you 130+ powerful new actions to use within Apple’s Shortcuts app.\n\nTools include "
-        },
-        {
-          "name": "Lab.Hacks",
-          "developer": "Lab.hacks GmbH",
-          "rating": 4.9,
-          "reviews": 134,
-          "price": "Free",
-          "url": "https://apps.apple.com/us/app/lab-hacks/id1462593060?uo=4",
-          "genre": "Productivity",
-          "last_updated": "2025-05-18",
-          "abandoned": false,
-          "description": "Lab.hacks is your ultimate companion for everyday work in the laboratory. Whether you're a student, "
-        }
-      ],
-      "status": "new",
-      "notes": "",
-      "market_gap": "competitive",
-      "opportunity_score": 70.3,
       "indie_feasibility": "medium",
       "monetization": "unclear"
     },
@@ -1314,6 +1196,35 @@
       "indie_feasibility": "high",
       "monetization": "subscription",
       "opportunity_score": 69.9
+    },
+    {
+      "id": "f260358b57ee",
+      "found_date": "2026-04-03",
+      "platform": "Reddit",
+      "subreddit": "AskEngineers",
+      "title": "I built a product but I’m going crazy in versioning",
+      "body": "At the root of every engineer there is the desire and ability to\\",
+      "author": "karimpanacci",
+      "url": "https://reddit.com/r/AskEngineers/comments/1qk94to/i_built_a_product_but_im_going_crazy_in_versioning/",
+      "post_date": "2026-01-23",
+      "upvotes": 24,
+      "comments": 40,
+      "category": "Education",
+      "pain_summary": "challenges with version control and management",
+      "ios_angle": "version control and collaboration platform for engineers",
+      "signal_strength": "medium",
+      "keywords": [
+        "version control",
+        "collaboration tool",
+        "engineering productivity"
+      ],
+      "competitors": [],
+      "status": "new",
+      "notes": "",
+      "market_gap": "blue_ocean",
+      "opportunity_score": 68.8,
+      "indie_feasibility": "medium",
+      "monetization": "unclear"
     },
     {
       "id": "12581aad2f5a",
@@ -1572,6 +1483,95 @@
       "indie_feasibility": "high",
       "monetization": "one_time",
       "opportunity_score": 68.6
+    },
+    {
+      "id": "e621e072a31a",
+      "found_date": "2026-04-05",
+      "platform": "Reddit",
+      "subreddit": "homelab",
+      "title": "Downgrading the lab: I think I just want my weekends back",
+      "body": "",
+      "author": "No-Yellow9948",
+      "url": "https://reddit.com/r/homelab/comments/1s27hut/downgrading_the_lab_i_think_i_just_want_my/",
+      "post_date": "2026-03-24",
+      "upvotes": 492,
+      "comments": 189,
+      "category": "Automation",
+      "pain_summary": "Want weekends back from home lab work",
+      "ios_angle": "Automate lab tasks for weekend recovery",
+      "signal_strength": "strong",
+      "keywords": [
+        "lab automation",
+        "weekend mode"
+      ],
+      "competitors": [
+        {
+          "name": "Manus - AI Agent & Automation",
+          "developer": "BUTTERFLY EFFECT PTE. LTD.",
+          "rating": 4.8,
+          "reviews": 24893,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/manus-ai-agent-automation/id6740909540?uo=4",
+          "genre": "Productivity",
+          "last_updated": "2026-04-02",
+          "abandoned": false,
+          "description": "Leave it to Manus - The AI agent that doesn't just think, it delivers.\n\nManus from Meta is a general"
+        },
+        {
+          "name": "Taskade: AI Apps & Agents",
+          "developer": "Taskcade Inc.",
+          "rating": 4.7,
+          "reviews": 6415,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/taskade-ai-apps-agents/id1264713923?uo=4",
+          "genre": "Productivity",
+          "last_updated": "2026-03-11",
+          "abandoned": false,
+          "description": "BUILD AI APPS. TRAIN AGENTS. AUTOMATE EVERYTHING.\n\nTaskade is an AI App Builder and Agent Platform t"
+        },
+        {
+          "name": "Power Automate",
+          "developer": "Microsoft Corporation",
+          "rating": 4.7,
+          "reviews": 5173,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/power-automate/id1094928825?uo=4",
+          "genre": "Business",
+          "last_updated": "2026-03-23",
+          "abandoned": false,
+          "description": "Carry the power of Microsoft Power Automate in your pocket. Boost your team's productivity with Micr"
+        },
+        {
+          "name": "Toolbox Pro for Shortcuts",
+          "developer": "Snailed It Development Ltd",
+          "rating": 4.5,
+          "reviews": 425,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/toolbox-pro-for-shortcuts/id1476205977?uo=4",
+          "genre": "Utilities",
+          "last_updated": "2026-02-26",
+          "abandoned": false,
+          "description": "Toolbox Pro gives you 130+ powerful new actions to use within Apple’s Shortcuts app.\n\nTools include "
+        },
+        {
+          "name": "Lab.Hacks",
+          "developer": "Lab.hacks GmbH",
+          "rating": 4.9,
+          "reviews": 134,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/lab-hacks/id1462593060?uo=4",
+          "genre": "Productivity",
+          "last_updated": "2025-05-18",
+          "abandoned": false,
+          "description": "Lab.hacks is your ultimate companion for everyday work in the laboratory. Whether you're a student, "
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "competitive",
+      "opportunity_score": 67.3,
+      "indie_feasibility": "medium",
+      "monetization": "unclear"
     },
     {
       "id": "b0898ee59541",
@@ -1957,96 +1957,6 @@
       "opportunity_score": 63.6,
       "indie_feasibility": "medium",
       "monetization": "unclear"
-    },
-    {
-      "id": "19c4ced56e24",
-      "found_date": "2026-04-03",
-      "platform": "Reddit",
-      "subreddit": "Teachers",
-      "title": "iReady holding talented students hostage",
-      "body": "I have been teaching at the same school for six years. I did my",
-      "author": "Funny_Ad3678",
-      "url": "https://reddit.com/r/Teachers/comments/1s2gc1d/iready_holding_talented_students_hostage/",
-      "post_date": "2026-03-24",
-      "upvotes": 837,
-      "comments": 188,
-      "category": "Education",
-      "pain_summary": "iReady software hinders student progress due to lack of accessibility features",
-      "ios_angle": "Accessible educational software with text-to-speech and speech-to-text functionality",
-      "signal_strength": "weak",
-      "keywords": [
-        "accessible education app",
-        "text to speech app",
-        "speech to text app"
-      ],
-      "competitors": [
-        {
-          "name": "Canvas by Instructure",
-          "developer": "Instructure Inc.",
-          "rating": 4.7,
-          "reviews": 2769396,
-          "price": "Free",
-          "url": "https://apps.apple.com/us/app/canvas-by-instructure/id480883488?uo=4",
-          "genre": "Education",
-          "last_updated": "2026-03-31",
-          "abandoned": false,
-          "description": "Your learning, anywhere.\nStay connected to your courses with the official Canvas app for learners. W"
-        },
-        {
-          "name": "Seesaw",
-          "developer": "Seesaw Learning, Inc.",
-          "rating": 4.8,
-          "reviews": 100063,
-          "price": "Free",
-          "url": "https://apps.apple.com/us/app/seesaw/id930565184?uo=4",
-          "genre": "Education",
-          "last_updated": "2026-04-01",
-          "abandoned": false,
-          "description": "Beloved by teachers around the world, Seesaw is the only educational platform built specifically to "
-        },
-        {
-          "name": "Voice Dream - Natural Reader",
-          "developer": "Voice Dream LLC",
-          "rating": 4.5,
-          "reviews": 13592,
-          "price": "Free",
-          "url": "https://apps.apple.com/us/app/voice-dream-natural-reader/id496177674?uo=4",
-          "genre": "Education",
-          "last_updated": "2026-03-04",
-          "abandoned": false,
-          "description": "Apple Design Award Winner! Voice Dream - Read Aloud lets you listen to PDFs, textbooks, Web pages, e"
-        },
-        {
-          "name": "Proloquo2Go AAC",
-          "developer": "AssistiveWare",
-          "rating": 4.8,
-          "reviews": 11671,
-          "price": "$249.99",
-          "url": "https://apps.apple.com/us/app/proloquo2go-aac/id308368164?uo=4",
-          "genre": "Education",
-          "last_updated": "2025-12-01",
-          "abandoned": false,
-          "description": "Tap images. Type words. Speak. Proloquo2Go is an easy to use communication app for people who cannot"
-        },
-        {
-          "name": "Starfall",
-          "developer": "Starfall Education Foundation",
-          "rating": 4.1,
-          "reviews": 4124,
-          "price": "Free",
-          "url": "https://apps.apple.com/us/app/starfall/id707189889?uo=4",
-          "genre": "Education",
-          "last_updated": "2026-02-02",
-          "abandoned": false,
-          "description": "Starfall® fun activities, games, and songs includes reading, math, music, and more – read, learn, an"
-        }
-      ],
-      "status": "new",
-      "notes": "",
-      "market_gap": "competitive",
-      "indie_feasibility": "high",
-      "monetization": "one_time",
-      "opportunity_score": 62.9
     },
     {
       "id": "c1af9dec303f",
@@ -2476,6 +2386,96 @@
       "indie_feasibility": "high",
       "monetization": "one_time",
       "opportunity_score": 60.1
+    },
+    {
+      "id": "19c4ced56e24",
+      "found_date": "2026-04-03",
+      "platform": "Reddit",
+      "subreddit": "Teachers",
+      "title": "iReady holding talented students hostage",
+      "body": "I have been teaching at the same school for six years. I did my",
+      "author": "Funny_Ad3678",
+      "url": "https://reddit.com/r/Teachers/comments/1s2gc1d/iready_holding_talented_students_hostage/",
+      "post_date": "2026-03-24",
+      "upvotes": 837,
+      "comments": 188,
+      "category": "Education",
+      "pain_summary": "iReady software hinders student progress due to lack of accessibility features",
+      "ios_angle": "Accessible educational software with text-to-speech and speech-to-text functionality",
+      "signal_strength": "weak",
+      "keywords": [
+        "accessible education app",
+        "text to speech app",
+        "speech to text app"
+      ],
+      "competitors": [
+        {
+          "name": "Canvas by Instructure",
+          "developer": "Instructure Inc.",
+          "rating": 4.7,
+          "reviews": 2769396,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/canvas-by-instructure/id480883488?uo=4",
+          "genre": "Education",
+          "last_updated": "2026-03-31",
+          "abandoned": false,
+          "description": "Your learning, anywhere.\nStay connected to your courses with the official Canvas app for learners. W"
+        },
+        {
+          "name": "Seesaw",
+          "developer": "Seesaw Learning, Inc.",
+          "rating": 4.8,
+          "reviews": 100063,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/seesaw/id930565184?uo=4",
+          "genre": "Education",
+          "last_updated": "2026-04-01",
+          "abandoned": false,
+          "description": "Beloved by teachers around the world, Seesaw is the only educational platform built specifically to "
+        },
+        {
+          "name": "Voice Dream - Natural Reader",
+          "developer": "Voice Dream LLC",
+          "rating": 4.5,
+          "reviews": 13592,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/voice-dream-natural-reader/id496177674?uo=4",
+          "genre": "Education",
+          "last_updated": "2026-03-04",
+          "abandoned": false,
+          "description": "Apple Design Award Winner! Voice Dream - Read Aloud lets you listen to PDFs, textbooks, Web pages, e"
+        },
+        {
+          "name": "Proloquo2Go AAC",
+          "developer": "AssistiveWare",
+          "rating": 4.8,
+          "reviews": 11671,
+          "price": "$249.99",
+          "url": "https://apps.apple.com/us/app/proloquo2go-aac/id308368164?uo=4",
+          "genre": "Education",
+          "last_updated": "2025-12-01",
+          "abandoned": false,
+          "description": "Tap images. Type words. Speak. Proloquo2Go is an easy to use communication app for people who cannot"
+        },
+        {
+          "name": "Starfall",
+          "developer": "Starfall Education Foundation",
+          "rating": 4.1,
+          "reviews": 4124,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/starfall/id707189889?uo=4",
+          "genre": "Education",
+          "last_updated": "2026-02-02",
+          "abandoned": false,
+          "description": "Starfall® fun activities, games, and songs includes reading, math, music, and more – read, learn, an"
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "competitive",
+      "indie_feasibility": "high",
+      "monetization": "one_time",
+      "opportunity_score": 59.9
     },
     {
       "id": "ea6f50007006",
@@ -9499,6 +9499,6 @@
       "opportunity_score": 29.8
     }
   ],
-  "last_run": "2026-04-23T06:31:27.352220",
-  "total_runs": 56
+  "last_run": "2026-04-25T03:21:27.393501",
+  "total_runs": 60
 }
