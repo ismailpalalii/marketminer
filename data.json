@@ -796,6 +796,84 @@
       "opportunity_score": 74.8
     },
     {
+      "id": "18ab93bed3e3",
+      "found_date": "2026-04-26",
+      "platform": "Reddit",
+      "subreddit": "SideProject",
+      "title": "Best Apps niche with the least competition and highest conversion",
+      "body": "Hey everyone 👋",
+      "author": "Aggravating-Mode9097",
+      "url": "https://reddit.com/r/SideProject/comments/1su1uoi/best_apps_niche_with_the_least_competition_and/",
+      "post_date": "2026-04-24",
+      "upvotes": 51,
+      "comments": 33,
+      "category": "DevTools",
+      "pain_summary": "Finding a profitable niche in the apps market is challenging",
+      "ios_angle": "Niche finder with data-driven insights and conversion rate analysis",
+      "signal_strength": "weak",
+      "indie_feasibility": "high",
+      "monetization": "subscription",
+      "keywords": [
+        "app niche finder",
+        "conversion rate analyzer",
+        "mobile app development tool"
+      ],
+      "competitors": [
+        {
+          "name": "CONVERT UNITS",
+          "developer": "Adysseus",
+          "rating": 4.8,
+          "reviews": 1207,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/convert-units/id1114969241?uo=4",
+          "genre": "Productivity",
+          "last_updated": "2024-08-02",
+          "abandoned": true,
+          "description": "Convert Units is a thunderingly amazing conversion tool !\n\n-Converts: Length, weight ,speed, area, t"
+        },
+        {
+          "name": "gUnit - Currency & Unit Converter (Conversion)",
+          "developer": "Axonic Labs LLC",
+          "rating": 4.9,
+          "reviews": 146,
+          "price": "$1.99",
+          "url": "https://apps.apple.com/us/app/gunit-currency-unit-converter-conversion/id324539179?uo=4",
+          "genre": "Utilities",
+          "last_updated": "2014-10-11",
+          "abandoned": true,
+          "description": "gUnit is a unit and currency converter that provides quick conversion results and is very easy to us"
+        },
+        {
+          "name": "AppSpy: App Finder & Tracker",
+          "developer": "Mehroz Sheikh",
+          "rating": 4.4,
+          "reviews": 13,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/appspy-app-finder-tracker/id6743031957?uo=4",
+          "genre": "Developer Tools",
+          "last_updated": "2026-02-22",
+          "abandoned": false,
+          "description": "AppSpy: Ranking & App Tracker\n\nThe Ultimate Tool for App Developers, Marketers, and Enthusiasts\n\nWan"
+        },
+        {
+          "name": "AppScout: App Market Research",
+          "developer": "MOHAMMED EL HOUARI",
+          "rating": 0,
+          "reviews": 0,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/appscout-app-market-research/id6760250429?uo=4",
+          "genre": "Developer Tools",
+          "last_updated": "2026-04-19",
+          "abandoned": false,
+          "description": "The app store is hiding profitable secrets. AppScout reveals them.\n\nOpen AppScout and immediately se"
+        }
+      ],
+      "market_gap": "blue_ocean",
+      "opportunity_score": 74.7,
+      "status": "new",
+      "notes": ""
+    },
+    {
       "id": "cdec98ed25d8",
       "found_date": "2026-04-03",
       "platform": "Reddit",
@@ -2168,83 +2246,6 @@
       "opportunity_score": 61.4
     },
     {
-      "id": "74ec79870895",
-      "found_date": "2026-04-03",
-      "platform": "Reddit",
-      "subreddit": "AppIdeas",
-      "title": "Building the Best AI Sex Chat- Needing advice",
-      "body": "Me and my co-founder are both students and we’ve been bootstrapping",
-      "author": "ComfortableCredit864",
-      "url": "https://reddit.com/r/AppIdeas/comments/1s493s8/building_the_best_ai_sex_chat_needing_advice/",
-      "post_date": "2026-03-26",
-      "upvotes": 16,
-      "comments": 19,
-      "category": "Social",
-      "pain_summary": "Building AI sex chat app, need advice and resources",
-      "ios_angle": "AI-powered social chat platform for adults",
-      "signal_strength": "strong",
-      "keywords": [
-        "AI sex chat",
-        "social dating app"
-      ],
-      "competitors": [
-        {
-          "name": "Hinge Dating App: Match & Date",
-          "developer": "Hinge, Inc.",
-          "rating": 4.4,
-          "reviews": 1054853,
-          "price": "Free",
-          "url": "https://apps.apple.com/us/app/hinge-dating-app-match-date/id595287172?uo=4",
-          "genre": "Lifestyle",
-          "last_updated": "2026-04-06",
-          "abandoned": false,
-          "description": "HINGE, DESIGNED TO BE DELETED\nHinge is the dating app for people who want to get off of dating apps."
-        },
-        {
-          "name": "Mingle2 - Dating & Meet People",
-          "developer": "NextC LLC",
-          "rating": 4.4,
-          "reviews": 78313,
-          "price": "Free",
-          "url": "https://apps.apple.com/us/app/mingle2-dating-meet-people/id1265035248?uo=4",
-          "genre": "Lifestyle",
-          "last_updated": "2026-03-20",
-          "abandoned": false,
-          "description": "Discover Mingle2 – Your Gateway to Meaningful Connections!!!\n\nDive into the vibrant community of Min"
-        },
-        {
-          "name": "happn: dating app",
-          "developer": "HAPPN SAS",
-          "rating": 4.3,
-          "reviews": 47908,
-          "price": "Free",
-          "url": "https://apps.apple.com/us/app/happn-dating-app/id489185828?uo=4",
-          "genre": "Lifestyle",
-          "last_updated": "2026-03-25",
-          "abandoned": false,
-          "description": "Like - Crush - Chat - Date\n\nStep into the world of happn, the dating app, that reinvents the way to "
-        },
-        {
-          "name": "Jaumo Dating App: Flirt & Chat",
-          "developer": "Joyride GmbH",
-          "rating": 4.8,
-          "reviews": 15821,
-          "price": "Free",
-          "url": "https://apps.apple.com/us/app/jaumo-dating-app-flirt-chat/id522681493?uo=4",
-          "genre": "Lifestyle",
-          "last_updated": "2026-03-20",
-          "abandoned": false,
-          "description": "Jaumo is more than just a dating app—it’s a community-driven platform designed to help you meet new "
-        }
-      ],
-      "status": "new",
-      "notes": "",
-      "market_gap": "competitive",
-      "opportunity_score": 61.1,
-      "indie_feasibility": "medium",
-      "monetization": "unclear"
-    },
-    {
       "id": "f6b89d0879e4",
       "found_date": "2026-04-06",
       "platform": "Reddit",
@@ -2838,6 +2839,83 @@
       "monetization": "unclear"
     },
     {
+      "id": "74ec79870895",
+      "found_date": "2026-04-03",
+      "platform": "Reddit",
+      "subreddit": "AppIdeas",
+      "title": "Building the Best AI Sex Chat- Needing advice",
+      "body": "Me and my co-founder are both students and we’ve been bootstrapping",
+      "author": "ComfortableCredit864",
+      "url": "https://reddit.com/r/AppIdeas/comments/1s493s8/building_the_best_ai_sex_chat_needing_advice/",
+      "post_date": "2026-03-26",
+      "upvotes": 16,
+      "comments": 19,
+      "category": "Social",
+      "pain_summary": "Building AI sex chat app, need advice and resources",
+      "ios_angle": "AI-powered social chat platform for adults",
+      "signal_strength": "strong",
+      "keywords": [
+        "AI sex chat",
+        "social dating app"
+      ],
+      "competitors": [
+        {
+          "name": "Hinge Dating App: Match & Date",
+          "developer": "Hinge, Inc.",
+          "rating": 4.4,
+          "reviews": 1054853,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/hinge-dating-app-match-date/id595287172?uo=4",
+          "genre": "Lifestyle",
+          "last_updated": "2026-04-06",
+          "abandoned": false,
+          "description": "HINGE, DESIGNED TO BE DELETED\nHinge is the dating app for people who want to get off of dating apps."
+        },
+        {
+          "name": "Mingle2 - Dating & Meet People",
+          "developer": "NextC LLC",
+          "rating": 4.4,
+          "reviews": 78313,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/mingle2-dating-meet-people/id1265035248?uo=4",
+          "genre": "Lifestyle",
+          "last_updated": "2026-03-20",
+          "abandoned": false,
+          "description": "Discover Mingle2 – Your Gateway to Meaningful Connections!!!\n\nDive into the vibrant community of Min"
+        },
+        {
+          "name": "happn: dating app",
+          "developer": "HAPPN SAS",
+          "rating": 4.3,
+          "reviews": 47908,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/happn-dating-app/id489185828?uo=4",
+          "genre": "Lifestyle",
+          "last_updated": "2026-03-25",
+          "abandoned": false,
+          "description": "Like - Crush - Chat - Date\n\nStep into the world of happn, the dating app, that reinvents the way to "
+        },
+        {
+          "name": "Jaumo Dating App: Flirt & Chat",
+          "developer": "Joyride GmbH",
+          "rating": 4.8,
+          "reviews": 15821,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/jaumo-dating-app-flirt-chat/id522681493?uo=4",
+          "genre": "Lifestyle",
+          "last_updated": "2026-03-20",
+          "abandoned": false,
+          "description": "Jaumo is more than just a dating app—it’s a community-driven platform designed to help you meet new "
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "competitive",
+      "opportunity_score": 58.1,
+      "indie_feasibility": "medium",
+      "monetization": "unclear"
+    },
+    {
       "id": "cd7146e33101",
       "found_date": "2026-04-03",
       "platform": "Reddit",
@@ -3119,96 +3197,6 @@
       "monetization": "unclear"
     },
     {
-      "id": "d10cdaebcd8c",
-      "found_date": "2026-04-03",
-      "platform": "Reddit",
-      "subreddit": "homelab",
-      "title": "Got some 10/100 switches: what to do with them?",
-      "body": "",
-      "author": "Exentio",
-      "url": "https://reddit.com/r/homelab/comments/1ohg62l/got_some_10100_switches_what_to_do_with_them/",
-      "post_date": "2025-10-27",
-      "upvotes": 632,
-      "comments": 246,
-      "category": "Automation",
-      "pain_summary": "Unused 10/100 switches need a plan for use",
-      "ios_angle": "Network monitoring app with switch management features",
-      "signal_strength": "medium",
-      "keywords": [
-        "network monitoring",
-        "switch management",
-        "lab automation"
-      ],
-      "competitors": [
-        {
-          "name": "Fing - Network Scanner",
-          "developer": "Fing Limited",
-          "rating": 4.6,
-          "reviews": 114406,
-          "price": "Free",
-          "url": "https://apps.apple.com/us/app/fing-network-scanner/id430921107?uo=4",
-          "genre": "Productivity",
-          "last_updated": "2026-03-25",
-          "abandoned": false,
-          "description": "Fing has helped millions of users worldwide to understand:\n• Who's on my WiFi\n• Is someone stealing "
-        },
-        {
-          "name": "UniFi",
-          "developer": "Ubiquiti Inc.",
-          "rating": 4.5,
-          "reviews": 12409,
-          "price": "Free",
-          "url": "https://apps.apple.com/us/app/unifi/id1057750338?uo=4",
-          "genre": "Productivity",
-          "last_updated": "2026-03-28",
-          "abandoned": false,
-          "description": "The UniFi app simplifies home and business IT by providing a central management interface where you "
-        },
-        {
-          "name": "Network Analyzer: net tools",
-          "developer": "Techet",
-          "rating": 4.6,
-          "reviews": 6509,
-          "price": "Free",
-          "url": "https://apps.apple.com/us/app/network-analyzer-net-tools/id562315041?uo=4",
-          "genre": "Utilities",
-          "last_updated": "2026-03-19",
-          "abandoned": false,
-          "description": "Network Analyzer is a lite version of Network Analyzer Pro - an advanced tool for network diagnostic"
-        },
-        {
-          "name": "iNetTools - Ping,DNS,Port Scan",
-          "developer": "ComcSoft Corporation",
-          "rating": 4.6,
-          "reviews": 5563,
-          "price": "Free",
-          "url": "https://apps.apple.com/us/app/inettools-ping-dns-port-scan/id561659975?uo=4",
-          "genre": "Utilities",
-          "last_updated": "2025-10-15",
-          "abandoned": false,
-          "description": "iNetTools is a suite of network diagnose tools on iPhone and iPad. It provides essential tools such "
-        },
-        {
-          "name": "iNet - Network Scanner",
-          "developer": "BananaGlue GmbH",
-          "rating": 4.5,
-          "reviews": 2496,
-          "price": "Free",
-          "url": "https://apps.apple.com/us/app/inet-network-scanner/id340793353?uo=4",
-          "genre": "Productivity",
-          "last_updated": "2026-03-17",
-          "abandoned": false,
-          "description": "iNet – Know Your Network. Take Control.\n\nWho’s on your Wi-Fi? What services are running on your loca"
-        }
-      ],
-      "status": "new",
-      "notes": "",
-      "market_gap": "competitive",
-      "opportunity_score": 57.1,
-      "indie_feasibility": "medium",
-      "monetization": "unclear"
-    },
-    {
       "id": "eae850665cbf",
       "found_date": "2026-04-09",
       "platform": "Reddit",
@@ -3375,6 +3363,96 @@
       "opportunity_score": 57.0,
       "indie_feasibility": "medium",
       "monetization": "unclear"
+    },
+    {
+      "id": "87123dbebe56",
+      "found_date": "2026-04-26",
+      "platform": "Reddit",
+      "subreddit": "homelab",
+      "title": "When does a homelab become a chore or a job?",
+      "body": "",
+      "author": "TheRealRatler",
+      "url": "https://reddit.com/r/homelab/comments/1svgfob/when_does_a_homelab_become_a_chore_or_a_job/",
+      "post_date": "2026-04-25",
+      "upvotes": 830,
+      "comments": 129,
+      "category": "Automation",
+      "pain_summary": "Homelab maintenance becomes overwhelming and time-consuming",
+      "ios_angle": "Automated homelab management with monitoring and alert system",
+      "signal_strength": "medium",
+      "indie_feasibility": "low",
+      "monetization": "one_time",
+      "keywords": [
+        "homelab automation",
+        "server management tool",
+        "it support app"
+      ],
+      "competitors": [
+        {
+          "name": "IFTTT - Automate work and home",
+          "developer": "IFTTT",
+          "rating": 4.6,
+          "reviews": 59332,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/ifttt-automate-work-and-home/id660944635?uo=4",
+          "genre": "Productivity",
+          "last_updated": "2026-04-10",
+          "abandoned": false,
+          "description": "Automation for business and home\n\nSave time at work and at home with IFTTT (aka IF This Then That). "
+        },
+        {
+          "name": "UniFi",
+          "developer": "Ubiquiti Inc.",
+          "rating": 4.6,
+          "reviews": 14061,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/unifi/id1057750338?uo=4",
+          "genre": "Productivity",
+          "last_updated": "2026-04-21",
+          "abandoned": false,
+          "description": "The UniFi app simplifies home and business IT by providing a central management interface where you "
+        },
+        {
+          "name": "Smart Home Controller App",
+          "developer": "Chorus Labs LLC (CA)",
+          "rating": 4.5,
+          "reviews": 2697,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/smart-home-controller-app/id6744491541?uo=4",
+          "genre": "Utilities",
+          "last_updated": "2026-03-22",
+          "abandoned": false,
+          "description": "The Smart Home Controller App helps you manage and control your smart devices, starting with connect"
+        },
+        {
+          "name": "Nexxt Home",
+          "developer": "Accvent LLC",
+          "rating": 4.7,
+          "reviews": 2654,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/nexxt-home/id1450584298?uo=4",
+          "genre": "Utilities",
+          "last_updated": "2025-12-18",
+          "abandoned": false,
+          "description": "Nexxt Home, Smart Home - Smart Living                                              \n1. Seamlessly co"
+        },
+        {
+          "name": "PlusMinus - Smart Home",
+          "developer": "Hangzhou PlusMinus Ai Technology Co., Ltd.",
+          "rating": 3.5,
+          "reviews": 1090,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/plusminus-smart-home/id1425786156?uo=4",
+          "genre": "Utilities",
+          "last_updated": "2023-04-06",
+          "abandoned": true,
+          "description": "A professional app to manage all your smart home devices.\n• Add new devices with a few easy steps\n• "
+        }
+      ],
+      "market_gap": "competitive",
+      "opportunity_score": 57.0,
+      "status": "new",
+      "notes": ""
     },
     {
       "id": "8554e3707cfd",
@@ -4007,6 +4085,96 @@
       "opportunity_score": 55.2
     },
     {
+      "id": "d10cdaebcd8c",
+      "found_date": "2026-04-03",
+      "platform": "Reddit",
+      "subreddit": "homelab",
+      "title": "Got some 10/100 switches: what to do with them?",
+      "body": "",
+      "author": "Exentio",
+      "url": "https://reddit.com/r/homelab/comments/1ohg62l/got_some_10100_switches_what_to_do_with_them/",
+      "post_date": "2025-10-27",
+      "upvotes": 632,
+      "comments": 246,
+      "category": "Automation",
+      "pain_summary": "Unused 10/100 switches need a plan for use",
+      "ios_angle": "Network monitoring app with switch management features",
+      "signal_strength": "medium",
+      "keywords": [
+        "network monitoring",
+        "switch management",
+        "lab automation"
+      ],
+      "competitors": [
+        {
+          "name": "Fing - Network Scanner",
+          "developer": "Fing Limited",
+          "rating": 4.6,
+          "reviews": 114406,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/fing-network-scanner/id430921107?uo=4",
+          "genre": "Productivity",
+          "last_updated": "2026-03-25",
+          "abandoned": false,
+          "description": "Fing has helped millions of users worldwide to understand:\n• Who's on my WiFi\n• Is someone stealing "
+        },
+        {
+          "name": "UniFi",
+          "developer": "Ubiquiti Inc.",
+          "rating": 4.5,
+          "reviews": 12409,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/unifi/id1057750338?uo=4",
+          "genre": "Productivity",
+          "last_updated": "2026-03-28",
+          "abandoned": false,
+          "description": "The UniFi app simplifies home and business IT by providing a central management interface where you "
+        },
+        {
+          "name": "Network Analyzer: net tools",
+          "developer": "Techet",
+          "rating": 4.6,
+          "reviews": 6509,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/network-analyzer-net-tools/id562315041?uo=4",
+          "genre": "Utilities",
+          "last_updated": "2026-03-19",
+          "abandoned": false,
+          "description": "Network Analyzer is a lite version of Network Analyzer Pro - an advanced tool for network diagnostic"
+        },
+        {
+          "name": "iNetTools - Ping,DNS,Port Scan",
+          "developer": "ComcSoft Corporation",
+          "rating": 4.6,
+          "reviews": 5563,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/inettools-ping-dns-port-scan/id561659975?uo=4",
+          "genre": "Utilities",
+          "last_updated": "2025-10-15",
+          "abandoned": false,
+          "description": "iNetTools is a suite of network diagnose tools on iPhone and iPad. It provides essential tools such "
+        },
+        {
+          "name": "iNet - Network Scanner",
+          "developer": "BananaGlue GmbH",
+          "rating": 4.5,
+          "reviews": 2496,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/inet-network-scanner/id340793353?uo=4",
+          "genre": "Productivity",
+          "last_updated": "2026-03-17",
+          "abandoned": false,
+          "description": "iNet – Know Your Network. Take Control.\n\nWho’s on your Wi-Fi? What services are running on your loca"
+        }
+      ],
+      "status": "new",
+      "notes": "",
+      "market_gap": "competitive",
+      "opportunity_score": 55.1,
+      "indie_feasibility": "medium",
+      "monetization": "unclear"
+    },
+    {
       "id": "ada4485354f0",
       "found_date": "2026-04-03",
       "platform": "Reddit",
@@ -4095,6 +4263,96 @@
       "opportunity_score": 54.8,
       "indie_feasibility": "medium",
       "monetization": "unclear"
+    },
+    {
+      "id": "e096cfecf704",
+      "found_date": "2026-04-26",
+      "platform": "Reddit",
+      "subreddit": "ADHD",
+      "title": "Do you ever struggle with showering or brushing your teeth",
+      "body": "Been dealing with ADHD my whole life but only diagnosed last year",
+      "author": "Still_Barracuda2697",
+      "url": "https://reddit.com/r/ADHD/comments/1st5f5l/do_you_ever_struggle_with_showering_or_brushing/",
+      "post_date": "2026-04-23",
+      "upvotes": 1101,
+      "comments": 258,
+      "category": "MentalHealth",
+      "pain_summary": "Struggling with daily hygiene tasks due to ADHD",
+      "ios_angle": "ADHD symptom tracker with reminders for personal care routines",
+      "signal_strength": "weak",
+      "indie_feasibility": "high",
+      "monetization": "subscription",
+      "keywords": [
+        "adhd symptoms",
+        "daily routine planner",
+        "mental health app"
+      ],
+      "competitors": [
+        {
+          "name": "Fabulous: Daily Habit Tracker",
+          "developer": "Fabulous",
+          "rating": 4.4,
+          "reviews": 87492,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/fabulous-daily-habit-tracker/id1203637303?uo=4",
+          "genre": "Health & Fitness",
+          "last_updated": "2026-04-20",
+          "abandoned": false,
+          "description": "Welcome to the world of Fabulous. Unlock the power of habits and routines. Prioritize your mental he"
+        },
+        {
+          "name": "Daylio Journal - Mood Tracker",
+          "developer": "Relaxio s.r.o.",
+          "rating": 4.8,
+          "reviews": 59159,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/daylio-journal-mood-tracker/id1194023242?uo=4",
+          "genre": "Lifestyle",
+          "last_updated": "2026-04-23",
+          "abandoned": false,
+          "description": "Self-Care Bullet Journal with Goals - Mood Diary & Happiness Tracker\n\nDaylio enables you to keep a p"
+        },
+        {
+          "name": "Joon: Kids ADHD Chore Tracker",
+          "developer": "Joon App, Inc",
+          "rating": 4.7,
+          "reviews": 6549,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/joon-kids-adhd-chore-tracker/id1482225056?uo=4",
+          "genre": "Health & Fitness",
+          "last_updated": "2026-04-02",
+          "abandoned": false,
+          "description": "1) Constantly nagging and arguing with your child?\n2) Is your child not motivated to complete their "
+        },
+        {
+          "name": "Inflow - Manage Your ADHD",
+          "developer": "Get Inflow Ltd.",
+          "rating": 4.4,
+          "reviews": 5542,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/inflow-manage-your-adhd/id1528183849?uo=4",
+          "genre": "Health & Fitness",
+          "last_updated": "2026-03-20",
+          "abandoned": false,
+          "description": "A science-based ADHD app for focus, productivity, and daily life. Manage your ADHD in just 5 minutes"
+        },
+        {
+          "name": "Bearable - Symptom Tracker",
+          "developer": "Bearable Ltd",
+          "rating": 4.8,
+          "reviews": 5293,
+          "price": "Free",
+          "url": "https://apps.apple.com/us/app/bearable-symptom-tracker/id1482581097?uo=4",
+          "genre": "Health & Fitness",
+          "last_updated": "2026-04-16",
+          "abandoned": false,
+          "description": "Feeling overwhelmed by your health? Bearable can help you feel more in control of your symptoms, fla"
+        }
+      ],
+      "market_gap": "saturated",
+      "opportunity_score": 54.8,
+      "status": "new",
+      "notes": ""
     },
     {
       "id": "4924ccb033ed",
@@ -9499,6 +9757,6 @@
       "opportunity_score": 29.8
     }
   ],
-  "last_run": "2026-04-25T06:37:57.786750",
-  "total_runs": 61
+  "last_run": "2026-04-26T03:47:18.597164",
+  "total_runs": 62
 }
