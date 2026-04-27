@@ -30,35 +30,6 @@
       "opportunity_score": 89.1
     },
     {
-      "id": "d64bb0a6f774",
-      "found_date": "2026-04-02",
-      "platform": "Reddit",
-      "subreddit": "SomebodyMakeThis",
-      "title": "TestMe - app to test my understanding of something I recently watched",
-      "body": "So l've been tinkering with idea that started from a personal habit\\",
-      "author": "bazinga_97",
-      "url": "https://reddit.com/r/SomebodyMakeThis/comments/1qnftaj/testme_app_to_test_my_understanding_of_something/",
-      "post_date": "2026-01-26",
-      "upvotes": 10,
-      "comments": 22,
-      "category": "Education",
-      "pain_summary": "No app to test understanding of new concepts after learning",
-      "ios_angle": "TestMe: interactive quiz generator for recent watch history",
-      "signal_strength": "strong",
-      "keywords": [
-        "test prep",
-        "learning app",
-        "interactive quizzes"
-      ],
-      "status": "new",
-      "notes": "",
-      "competitors": [],
-      "market_gap": "blue_ocean",
-      "indie_feasibility": "high",
-      "monetization": "one_time",
-      "opportunity_score": 85.1
-    },
-    {
       "id": "9d672f93c478",
       "found_date": "2026-04-02",
       "platform": "Reddit",
@@ -266,6 +237,35 @@
       "monetization": "subscription",
       "market_gap": "blue_ocean",
       "opportunity_score": 82.2
+    },
+    {
+      "id": "d64bb0a6f774",
+      "found_date": "2026-04-02",
+      "platform": "Reddit",
+      "subreddit": "SomebodyMakeThis",
+      "title": "TestMe - app to test my understanding of something I recently watched",
+      "body": "So l've been tinkering with idea that started from a personal habit\\",
+      "author": "bazinga_97",
+      "url": "https://reddit.com/r/SomebodyMakeThis/comments/1qnftaj/testme_app_to_test_my_understanding_of_something/",
+      "post_date": "2026-01-26",
+      "upvotes": 10,
+      "comments": 22,
+      "category": "Education",
+      "pain_summary": "No app to test understanding of new concepts after learning",
+      "ios_angle": "TestMe: interactive quiz generator for recent watch history",
+      "signal_strength": "strong",
+      "keywords": [
+        "test prep",
+        "learning app",
+        "interactive quizzes"
+      ],
+      "status": "new",
+      "notes": "",
+      "competitors": [],
+      "market_gap": "blue_ocean",
+      "indie_feasibility": "high",
+      "monetization": "one_time",
+      "opportunity_score": 82.1
     },
     {
       "id": "e1be55c46ef5",
@@ -5301,6 +5301,31 @@
       "monetization": "unclear"
     },
     {
+      "id": "ce9d583131f1",
+      "found_date": "2026-04-27",
+      "platform": "Reddit",
+      "subreddit": "TwoXChromosomes",
+      "title": "My period tracking app is now kaput on Android thanks to Google. I",
+      "body": "",
+      "author": "PauI_MuadDib",
+      "url": "https://reddit.com/r/TwoXChromosomes/comments/1swfwr7/my_period_tracking_app_is_now_kaput_on_android/",
+      "post_date": "2026-04-26",
+      "upvotes": 67,
+      "comments": 28,
+      "category": "Uncategorized",
+      "pain_summary": "",
+      "ios_angle": "",
+      "signal_strength": "medium",
+      "indie_feasibility": "medium",
+      "monetization": "unclear",
+      "keywords": [],
+      "competitors": [],
+      "market_gap": "",
+      "opportunity_score": 51.3,
+      "status": "new",
+      "notes": ""
+    },
+    {
       "id": "d3a70a26e64d",
       "found_date": "2026-04-23",
       "platform": "Reddit",
@@ -9757,6 +9782,6 @@
       "opportunity_score": 29.8
     }
   ],
-  "last_run": "2026-04-26T03:47:18.597164",
-  "total_runs": 62
+  "last_run": "2026-04-27T06:42:00.382021",
+  "total_runs": 65
 }
